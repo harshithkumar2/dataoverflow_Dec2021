@@ -1,0 +1,2419 @@
+city	state	vaccine	gender	unique_vaccinated_people
+Abohar	Punjab	A	F	119
+Abohar	Punjab	A	M	119
+Abohar	Punjab	B	F	93
+Abohar	Punjab	B	M	89
+Abohar	Punjab	C	F	43
+Abohar	Punjab	C	M	27
+Abu	Rajasthan	A	F	27
+Abu	Rajasthan	A	M	18
+Abu	Rajasthan	B	F	15
+Abu	Rajasthan	B	M	14
+Abu	Rajasthan	C	F	4
+Abu	Rajasthan	C	M	7
+Addanki	Andhra Pradesh	A	F	42
+Addanki	Andhra Pradesh	A	M	30
+Addanki	Andhra Pradesh	B	F	26
+Addanki	Andhra Pradesh	B	M	28
+Addanki	Andhra Pradesh	C	F	15
+Addanki	Andhra Pradesh	C	M	13
+Adilabad	Telangana	A	F	106
+Adilabad	Telangana	A	M	99
+Adilabad	Telangana	B	F	75
+Adilabad	Telangana	B	M	78
+Adilabad	Telangana	C	F	33
+Adilabad	Telangana	C	M	39
+Adoni	Andhra Pradesh	A	F	173
+Adoni	Andhra Pradesh	A	M	179
+Adoni	Andhra Pradesh	B	F	114
+Adoni	Andhra Pradesh	B	M	102
+Adoni	Andhra Pradesh	C	F	55
+Adoni	Andhra Pradesh	C	M	45
+Agartala	Tripura	A	F	496
+Agartala	Tripura	A	M	472
+Agartala	Tripura	B	F	335
+Agartala	Tripura	B	M	323
+Agartala	Tripura	C	F	140
+Agartala	Tripura	C	M	143
+Agra	Uttar Pradesh	A	F	1500
+Agra	Uttar Pradesh	A	M	1506
+Agra	Uttar Pradesh	B	F	1000
+Agra	Uttar Pradesh	B	M	1009
+Agra	Uttar Pradesh	C	F	422
+Agra	Uttar Pradesh	C	M	455
+Ahmadnagar	Maharashtra	A	F	344
+Ahmadnagar	Maharashtra	A	M	306
+Ahmadnagar	Maharashtra	B	F	238
+Ahmadnagar	Maharashtra	B	M	256
+Ahmadnagar	Maharashtra	C	F	102
+Ahmadnagar	Maharashtra	C	M	105
+Ahmedabad	Gujarat	A	F	6813
+Ahmedabad	Gujarat	A	M	6773
+Ahmedabad	Gujarat	B	F	4679
+Ahmedabad	Gujarat	B	M	4635
+Ahmedabad	Gujarat	C	F	2150
+Ahmedabad	Gujarat	C	M	2082
+Aizawl	Mizoram	A	F	252
+Aizawl	Mizoram	A	M	267
+Aizawl	Mizoram	B	F	175
+Aizawl	Mizoram	B	M	190
+Aizawl	Mizoram	C	F	80
+Aizawl	Mizoram	C	M	80
+Ajmer	Rajasthan	A	F	507
+Ajmer	Rajasthan	A	M	525
+Ajmer	Rajasthan	B	F	347
+Ajmer	Rajasthan	B	M	346
+Ajmer	Rajasthan	C	F	167
+Ajmer	Rajasthan	C	M	170
+Akola	Maharashtra	A	F	398
+Akola	Maharashtra	A	M	407
+Akola	Maharashtra	B	F	292
+Akola	Maharashtra	B	M	264
+Akola	Maharashtra	C	F	117
+Akola	Maharashtra	C	M	119
+Aligarh	Uttar Pradesh	A	F	1046
+Aligarh	Uttar Pradesh	A	M	1082
+Aligarh	Uttar Pradesh	B	F	799
+Aligarh	Uttar Pradesh	B	M	702
+Aligarh	Uttar Pradesh	C	F	331
+Aligarh	Uttar Pradesh	C	M	314
+Alipur Duar	West Bengal	A	F	103
+Alipur Duar	West Bengal	A	M	115
+Alipur Duar	West Bengal	B	F	83
+Alipur Duar	West Bengal	B	M	69
+Alipur Duar	West Bengal	C	F	40
+Alipur Duar	West Bengal	C	M	38
+Allahabad	Uttar Pradesh	A	F	1135
+Allahabad	Uttar Pradesh	A	M	1131
+Allahabad	Uttar Pradesh	B	F	781
+Allahabad	Uttar Pradesh	B	M	827
+Allahabad	Uttar Pradesh	C	F	372
+Allahabad	Uttar Pradesh	C	M	352
+Alleppey	Kerala	A	F	132
+Alleppey	Kerala	A	M	152
+Alleppey	Kerala	B	F	112
+Alleppey	Kerala	B	M	104
+Alleppey	Kerala	C	F	50
+Alleppey	Kerala	C	M	42
+Alwar	Rajasthan	A	F	363
+Alwar	Rajasthan	A	M	319
+Alwar	Rajasthan	B	F	232
+Alwar	Rajasthan	B	M	213
+Alwar	Rajasthan	C	F	92
+Alwar	Rajasthan	C	M	100
+Amalapuram	Andhra Pradesh	A	F	54
+Amalapuram	Andhra Pradesh	A	M	50
+Amalapuram	Andhra Pradesh	B	F	36
+Amalapuram	Andhra Pradesh	B	M	41
+Amalapuram	Andhra Pradesh	C	F	16
+Amalapuram	Andhra Pradesh	C	M	18
+Ambala	Haryana	A	F	129
+Ambala	Haryana	A	M	131
+Ambala	Haryana	B	F	70
+Ambala	Haryana	B	M	76
+Ambala	Haryana	C	F	35
+Ambala	Haryana	C	M	42
+Amravati	Maharashtra	A	F	518
+Amravati	Maharashtra	A	M	521
+Amravati	Maharashtra	B	F	319
+Amravati	Maharashtra	B	M	370
+Amravati	Maharashtra	C	F	137
+Amravati	Maharashtra	C	M	147
+Amritsar	Punjab	A	F	1014
+Amritsar	Punjab	A	M	1170
+Amritsar	Punjab	B	F	758
+Amritsar	Punjab	B	M	723
+Amritsar	Punjab	C	F	314
+Amritsar	Punjab	C	M	325
+Amudalavalasa	Andhra Pradesh	A	F	31
+Amudalavalasa	Andhra Pradesh	A	M	40
+Amudalavalasa	Andhra Pradesh	B	F	24
+Amudalavalasa	Andhra Pradesh	B	M	34
+Amudalavalasa	Andhra Pradesh	C	F	15
+Amudalavalasa	Andhra Pradesh	C	M	11
+Anakapalle	Andhra Pradesh	A	F	78
+Anakapalle	Andhra Pradesh	A	M	75
+Anakapalle	Andhra Pradesh	B	F	46
+Anakapalle	Andhra Pradesh	B	M	59
+Anakapalle	Andhra Pradesh	C	F	25
+Anakapalle	Andhra Pradesh	C	M	13
+Anantapur	Andhra Pradesh	A	F	248
+Anantapur	Andhra Pradesh	A	M	254
+Anantapur	Andhra Pradesh	B	F	171
+Anantapur	Andhra Pradesh	B	M	168
+Anantapur	Andhra Pradesh	C	F	73
+Anantapur	Andhra Pradesh	C	M	72
+Angamali	Kerala	A	F	44
+Angamali	Kerala	A	M	25
+Angamali	Kerala	B	F	15
+Angamali	Kerala	B	M	22
+Angamali	Kerala	C	F	9
+Angamali	Kerala	C	M	10
+Armur	Telangana	A	F	64
+Armur	Telangana	A	M	52
+Armur	Telangana	B	F	36
+Armur	Telangana	B	M	45
+Armur	Telangana	C	F	18
+Armur	Telangana	C	M	16
+Asansol	West Bengal	A	F	501
+Asansol	West Bengal	A	M	493
+Asansol	West Bengal	B	F	365
+Asansol	West Bengal	B	M	371
+Asansol	West Bengal	C	F	155
+Asansol	West Bengal	C	M	148
+Aurangabad	Bihar	A	F	83
+Aurangabad	Bihar	A	M	91
+Aurangabad	Bihar	B	F	81
+Aurangabad	Bihar	B	M	58
+Aurangabad	Bihar	C	F	20
+Aurangabad	Bihar	C	M	27
+Badvel	Andhra Pradesh	A	F	72
+Badvel	Andhra Pradesh	A	M	60
+Badvel	Andhra Pradesh	B	F	44
+Badvel	Andhra Pradesh	B	M	44
+Badvel	Andhra Pradesh	C	F	16
+Badvel	Andhra Pradesh	C	M	17
+Baharampur	West Bengal	A	F	192
+Baharampur	West Bengal	A	M	149
+Baharampur	West Bengal	B	F	114
+Baharampur	West Bengal	B	M	104
+Baharampur	West Bengal	C	F	56
+Baharampur	West Bengal	C	M	61
+Bahraigh	Uttar Pradesh	A	F	165
+Bahraigh	Uttar Pradesh	A	M	183
+Bahraigh	Uttar Pradesh	B	F	109
+Bahraigh	Uttar Pradesh	B	M	111
+Bahraigh	Uttar Pradesh	C	F	69
+Bahraigh	Uttar Pradesh	C	M	50
+Baidyabati	West Bengal	A	F	114
+Baidyabati	West Bengal	A	M	137
+Baidyabati	West Bengal	B	F	72
+Baidyabati	West Bengal	B	M	83
+Baidyabati	West Bengal	C	F	35
+Baidyabati	West Bengal	C	M	36
+Bali	West Bengal	A	F	286
+Bali	West Bengal	A	M	270
+Bali	West Bengal	B	F	194
+Bali	West Bengal	B	M	208
+Bali	West Bengal	C	F	75
+Bali	West Bengal	C	M	78
+Balurghat	West Bengal	A	F	150
+Balurghat	West Bengal	A	M	161
+Balurghat	West Bengal	B	F	100
+Balurghat	West Bengal	B	M	91
+Balurghat	West Bengal	C	F	41
+Balurghat	West Bengal	C	M	39
+Bandipura	Jammu and Kashmir	A	F	23
+Bandipura	Jammu and Kashmir	A	M	25
+Bandipura	Jammu and Kashmir	B	F	13
+Bandipura	Jammu and Kashmir	B	M	27
+Bandipura	Jammu and Kashmir	C	F	4
+Bandipura	Jammu and Kashmir	C	M	7
+Bangalore	Karnataka	A	F	12834
+Bangalore	Karnataka	A	M	12751
+Bangalore	Karnataka	B	F	8763
+Bangalore	Karnataka	B	M	8548
+Bangalore	Karnataka	C	F	3714
+Bangalore	Karnataka	C	M	3870
+Bangaon	West Bengal	A	F	108
+Bangaon	West Bengal	A	M	103
+Bangaon	West Bengal	B	F	69
+Bangaon	West Bengal	B	M	71
+Bangaon	West Bengal	C	F	27
+Bangaon	West Bengal	C	M	26
+Bankura	West Bengal	A	F	136
+Bankura	West Bengal	A	M	134
+Bankura	West Bengal	B	F	85
+Bankura	West Bengal	B	M	106
+Bankura	West Bengal	C	F	46
+Bankura	West Bengal	C	M	44
+Bansbaria	West Bengal	A	F	85
+Bansbaria	West Bengal	A	M	96
+Bansbaria	West Bengal	B	F	64
+Bansbaria	West Bengal	B	M	63
+Bansbaria	West Bengal	C	F	27
+Bansbaria	West Bengal	C	M	34
+Bapatla	Andhra Pradesh	A	F	64
+Bapatla	Andhra Pradesh	A	M	68
+Bapatla	Andhra Pradesh	B	F	62
+Bapatla	Andhra Pradesh	B	M	38
+Bapatla	Andhra Pradesh	C	F	19
+Bapatla	Andhra Pradesh	C	M	23
+Baramula	Jammu and Kashmir	A	F	174
+Baramula	Jammu and Kashmir	A	M	166
+Baramula	Jammu and Kashmir	B	F	119
+Baramula	Jammu and Kashmir	B	M	115
+Baramula	Jammu and Kashmir	C	F	34
+Baramula	Jammu and Kashmir	C	M	33
+Barasat	West Bengal	A	F	250
+Barasat	West Bengal	A	M	259
+Barasat	West Bengal	B	F	187
+Barasat	West Bengal	B	M	160
+Barasat	West Bengal	C	F	91
+Barasat	West Bengal	C	M	87
+Barddhaman	West Bengal	A	F	304
+Barddhaman	West Bengal	A	M	322
+Barddhaman	West Bengal	B	F	184
+Barddhaman	West Bengal	B	M	192
+Barddhaman	West Bengal	C	F	97
+Barddhaman	West Bengal	C	M	93
+Bareilly	Uttar Pradesh	A	F	930
+Bareilly	Uttar Pradesh	A	M	888
+Bareilly	Uttar Pradesh	B	F	669
+Bareilly	Uttar Pradesh	B	M	588
+Bareilly	Uttar Pradesh	C	F	280
+Bareilly	Uttar Pradesh	C	M	277
+Basirhat	West Bengal	A	F	112
+Basirhat	West Bengal	A	M	129
+Basirhat	West Bengal	B	F	82
+Basirhat	West Bengal	B	M	89
+Basirhat	West Bengal	C	F	28
+Basirhat	West Bengal	C	M	38
+Begusarai	Bihar	A	F	232
+Begusarai	Bihar	A	M	223
+Begusarai	Bihar	B	F	142
+Begusarai	Bihar	B	M	145
+Begusarai	Bihar	C	F	86
+Begusarai	Bihar	C	M	63
+Belampalli	Telangana	A	F	51
+Belampalli	Telangana	A	M	57
+Belampalli	Telangana	B	F	41
+Belampalli	Telangana	B	M	37
+Belampalli	Telangana	C	F	13
+Belampalli	Telangana	C	M	12
+Belgaum	Karnataka	A	F	452
+Belgaum	Karnataka	A	M	465
+Belgaum	Karnataka	B	F	300
+Belgaum	Karnataka	B	M	291
+Belgaum	Karnataka	C	F	145
+Belgaum	Karnataka	C	M	130
+Bellary	Karnataka	A	F	389
+Bellary	Karnataka	A	M	402
+Bellary	Karnataka	B	F	291
+Bellary	Karnataka	B	M	288
+Bellary	Karnataka	C	F	105
+Bellary	Karnataka	C	M	117
+Bezwada	Andhra Pradesh	A	F	981
+Bezwada	Andhra Pradesh	A	M	977
+Bezwada	Andhra Pradesh	B	F	700
+Bezwada	Andhra Pradesh	B	M	682
+Bezwada	Andhra Pradesh	C	F	264
+Bezwada	Andhra Pradesh	C	M	259
+Bhadreswar	West Bengal	A	F	111
+Bhadreswar	West Bengal	A	M	92
+Bhadreswar	West Bengal	B	F	69
+Bhadreswar	West Bengal	B	M	71
+Bhadreswar	West Bengal	C	F	30
+Bhadreswar	West Bengal	C	M	21
+Bhagalpur	Bihar	A	F	384
+Bhagalpur	Bihar	A	M	429
+Bhagalpur	Bihar	B	F	250
+Bhagalpur	Bihar	B	M	261
+Bhagalpur	Bihar	C	F	110
+Bhagalpur	Bihar	C	M	118
+Bhainsa	Telangana	A	F	45
+Bhainsa	Telangana	A	M	49
+Bhainsa	Telangana	B	F	40
+Bhainsa	Telangana	B	M	34
+Bhainsa	Telangana	C	F	15
+Bhainsa	Telangana	C	M	13
+Bharatpur	Rajasthan	A	F	215
+Bharatpur	Rajasthan	A	M	239
+Bharatpur	Rajasthan	B	F	173
+Bharatpur	Rajasthan	B	M	155
+Bharatpur	Rajasthan	C	F	70
+Bharatpur	Rajasthan	C	M	61
+Bhatpara	West Bengal	A	F	332
+Bhatpara	West Bengal	A	M	388
+Bhatpara	West Bengal	B	F	260
+Bhatpara	West Bengal	B	M	277
+Bhatpara	West Bengal	C	F	105
+Bhatpara	West Bengal	C	M	113
+Bhavnagar	Gujarat	A	F	482
+Bhavnagar	Gujarat	A	M	501
+Bhavnagar	Gujarat	B	F	336
+Bhavnagar	Gujarat	B	M	359
+Bhavnagar	Gujarat	C	F	142
+Bhavnagar	Gujarat	C	M	158
+Bhayandar	Maharashtra	A	F	757
+Bhayandar	Maharashtra	A	M	740
+Bhayandar	Maharashtra	B	F	512
+Bhayandar	Maharashtra	B	M	497
+Bhayandar	Maharashtra	C	F	221
+Bhayandar	Maharashtra	C	M	230
+Bhilai	Chhattisgarh	A	F	1025
+Bhilai	Chhattisgarh	A	M	1028
+Bhilai	Chhattisgarh	B	F	695
+Bhilai	Chhattisgarh	B	M	668
+Bhilai	Chhattisgarh	C	F	314
+Bhilai	Chhattisgarh	C	M	291
+Bhilwara	Rajasthan	A	F	345
+Bhilwara	Rajasthan	A	M	353
+Bhilwara	Rajasthan	B	F	259
+Bhilwara	Rajasthan	B	M	260
+Bhilwara	Rajasthan	C	F	104
+Bhilwara	Rajasthan	C	M	111
+Bhimavaram	Andhra Pradesh	A	F	152
+Bhimavaram	Andhra Pradesh	A	M	130
+Bhimavaram	Andhra Pradesh	B	F	79
+Bhimavaram	Andhra Pradesh	B	M	90
+Bhimavaram	Andhra Pradesh	C	F	37
+Bhimavaram	Andhra Pradesh	C	M	40
+Bhimunipatnam	Andhra Pradesh	A	F	50
+Bhimunipatnam	Andhra Pradesh	A	M	59
+Bhimunipatnam	Andhra Pradesh	B	F	33
+Bhimunipatnam	Andhra Pradesh	B	M	36
+Bhimunipatnam	Andhra Pradesh	C	F	23
+Bhimunipatnam	Andhra Pradesh	C	M	18
+Bhiwandi	Maharashtra	A	F	1057
+Bhiwandi	Maharashtra	A	M	1089
+Bhiwandi	Maharashtra	B	F	676
+Bhiwandi	Maharashtra	B	M	724
+Bhiwandi	Maharashtra	C	F	331
+Bhiwandi	Maharashtra	C	M	305
+Bhiwani	Haryana	A	F	179
+Bhiwani	Haryana	A	M	175
+Bhiwani	Haryana	B	F	110
+Bhiwani	Haryana	B	M	109
+Bhiwani	Haryana	C	F	57
+Bhiwani	Haryana	C	M	62
+Bhopal	Madhya Pradesh	A	F	1703
+Bhopal	Madhya Pradesh	A	M	1721
+Bhopal	Madhya Pradesh	B	F	1175
+Bhopal	Madhya Pradesh	B	M	1183
+Bhopal	Madhya Pradesh	C	F	554
+Bhopal	Madhya Pradesh	C	M	481
+Bhubaneshwar	Odisha	A	F	714
+Bhubaneshwar	Odisha	A	M	786
+Bhubaneshwar	Odisha	B	F	537
+Bhubaneshwar	Odisha	B	M	528
+Bhubaneshwar	Odisha	C	F	239
+Bhubaneshwar	Odisha	C	M	243
+Bhuj	Gujarat	A	F	265
+Bhuj	Gujarat	A	M	292
+Bhuj	Gujarat	B	F	179
+Bhuj	Gujarat	B	M	173
+Bhuj	Gujarat	C	F	88
+Bhuj	Gujarat	C	M	79
+Bhusaval	Maharashtra	A	F	174
+Bhusaval	Maharashtra	A	M	170
+Bhusaval	Maharashtra	B	F	124
+Bhusaval	Maharashtra	B	M	94
+Bhusaval	Maharashtra	C	F	57
+Bhusaval	Maharashtra	C	M	56
+Bidar	Karnataka	A	F	265
+Bidar	Karnataka	A	M	280
+Bidar	Karnataka	B	F	170
+Bidar	Karnataka	B	M	206
+Bidar	Karnataka	C	F	82
+Bidar	Karnataka	C	M	86
+Bijapur	Karnataka	A	F	323
+Bijapur	Karnataka	A	M	311
+Bijapur	Karnataka	B	F	210
+Bijapur	Karnataka	B	M	215
+Bijapur	Karnataka	C	F	76
+Bijapur	Karnataka	C	M	95
+Bikaner	Rajasthan	A	F	510
+Bikaner	Rajasthan	A	M	519
+Bikaner	Rajasthan	B	F	333
+Bikaner	Rajasthan	B	M	378
+Bikaner	Rajasthan	C	F	162
+Bikaner	Rajasthan	C	M	145
+Bilaspur	Chhattisgarh	A	F	320
+Bilaspur	Chhattisgarh	A	M	278
+Bilaspur	Chhattisgarh	B	F	227
+Bilaspur	Chhattisgarh	B	M	191
+Bilaspur	Chhattisgarh	C	F	92
+Bilaspur	Chhattisgarh	C	M	91
+Bobbili	Andhra Pradesh	A	F	45
+Bobbili	Andhra Pradesh	A	M	58
+Bobbili	Andhra Pradesh	B	F	41
+Bobbili	Andhra Pradesh	B	M	40
+Bobbili	Andhra Pradesh	C	F	24
+Bobbili	Andhra Pradesh	C	M	20
+Bodhan	Telangana	A	F	74
+Bodhan	Telangana	A	M	84
+Bodhan	Telangana	B	F	42
+Bodhan	Telangana	B	M	48
+Bodhan	Telangana	C	F	27
+Bodhan	Telangana	C	M	20
+Bodupal	Telangana	A	F	41
+Bodupal	Telangana	A	M	38
+Bodupal	Telangana	B	F	19
+Bodupal	Telangana	B	M	28
+Bodupal	Telangana	C	F	13
+Bodupal	Telangana	C	M	12
+Brahmapur	Odisha	A	F	305
+Brahmapur	Odisha	A	M	300
+Brahmapur	Odisha	B	F	207
+Brahmapur	Odisha	B	M	209
+Brahmapur	Odisha	C	F	99
+Brahmapur	Odisha	C	M	85
+Budaun	Uttar Pradesh	A	F	142
+Budaun	Uttar Pradesh	A	M	152
+Budaun	Uttar Pradesh	B	F	93
+Budaun	Uttar Pradesh	B	M	106
+Budaun	Uttar Pradesh	C	F	51
+Budaun	Uttar Pradesh	C	M	46
+Bulandshahr	Uttar Pradesh	A	F	194
+Bulandshahr	Uttar Pradesh	A	M	188
+Bulandshahr	Uttar Pradesh	B	F	115
+Bulandshahr	Uttar Pradesh	B	M	140
+Bulandshahr	Uttar Pradesh	C	F	49
+Bulandshahr	Uttar Pradesh	C	M	48
+Burhanpur	Madhya Pradesh	A	F	206
+Burhanpur	Madhya Pradesh	A	M	154
+Burhanpur	Madhya Pradesh	B	F	102
+Burhanpur	Madhya Pradesh	B	M	125
+Burhanpur	Madhya Pradesh	C	F	48
+Burhanpur	Madhya Pradesh	C	M	61
+Calicut	Kerala	A	F	367
+Calicut	Kerala	A	M	390
+Calicut	Kerala	B	F	274
+Calicut	Kerala	B	M	276
+Calicut	Kerala	C	F	112
+Calicut	Kerala	C	M	114
+Cawnpore	Uttar Pradesh	A	F	2560
+Cawnpore	Uttar Pradesh	A	M	2557
+Cawnpore	Uttar Pradesh	B	F	1695
+Cawnpore	Uttar Pradesh	B	M	1699
+Cawnpore	Uttar Pradesh	C	F	761
+Cawnpore	Uttar Pradesh	C	M	760
+Chakradharpur	Jharkhand	A	F	152
+Chakradharpur	Jharkhand	A	M	210
+Chakradharpur	Jharkhand	B	F	112
+Chakradharpur	Jharkhand	B	M	118
+Chakradharpur	Jharkhand	C	F	57
+Chakradharpur	Jharkhand	C	M	81
+Champdani	West Bengal	A	F	108
+Champdani	West Bengal	A	M	127
+Champdani	West Bengal	B	F	73
+Champdani	West Bengal	B	M	73
+Champdani	West Bengal	C	F	30
+Champdani	West Bengal	C	M	28
+Chanda	Maharashtra	A	F	526
+Chanda	Maharashtra	A	M	561
+Chanda	Maharashtra	B	F	412
+Chanda	Maharashtra	B	M	382
+Chanda	Maharashtra	C	F	169
+Chanda	Maharashtra	C	M	163
+Chandannagar	West Bengal	A	F	154
+Chandannagar	West Bengal	A	M	146
+Chandannagar	West Bengal	B	F	100
+Chandannagar	West Bengal	B	M	109
+Chandannagar	West Bengal	C	F	56
+Chandannagar	West Bengal	C	M	57
+Chandigarh	Chandigarh	A	F	946
+Chandigarh	Chandigarh	A	M	974
+Chandigarh	Chandigarh	B	F	669
+Chandigarh	Chandigarh	B	M	645
+Chandigarh	Chandigarh	C	F	293
+Chandigarh	Chandigarh	C	M	305
+Channarayapatna	Karnataka	A	F	42
+Channarayapatna	Karnataka	A	M	44
+Channarayapatna	Karnataka	B	F	20
+Channarayapatna	Karnataka	B	M	18
+Channarayapatna	Karnataka	C	F	14
+Channarayapatna	Karnataka	C	M	11
+Chennai	Tamil Nadu	A	F	10544
+Chennai	Tamil Nadu	A	M	10536
+Chennai	Tamil Nadu	B	F	7301
+Chennai	Tamil Nadu	B	M	7138
+Chennai	Tamil Nadu	C	F	3171
+Chennai	Tamil Nadu	C	M	3152
+Chicacole	Andhra Pradesh	A	F	127
+Chicacole	Andhra Pradesh	A	M	122
+Chicacole	Andhra Pradesh	B	F	92
+Chicacole	Andhra Pradesh	B	M	80
+Chicacole	Andhra Pradesh	C	F	36
+Chicacole	Andhra Pradesh	C	M	33
+Chilakalurupet	Andhra Pradesh	A	F	96
+Chilakalurupet	Andhra Pradesh	A	M	91
+Chilakalurupet	Andhra Pradesh	B	F	68
+Chilakalurupet	Andhra Pradesh	B	M	59
+Chilakalurupet	Andhra Pradesh	C	F	29
+Chilakalurupet	Andhra Pradesh	C	M	21
+Chimakurti	Andhra Pradesh	A	F	29
+Chimakurti	Andhra Pradesh	A	M	26
+Chimakurti	Andhra Pradesh	B	F	22
+Chimakurti	Andhra Pradesh	B	M	16
+Chimakurti	Andhra Pradesh	C	F	3
+Chimakurti	Andhra Pradesh	C	M	6
+Chinchvad	Maharashtra	A	F	1702
+Chinchvad	Maharashtra	A	M	1652
+Chinchvad	Maharashtra	B	F	1127
+Chinchvad	Maharashtra	B	M	1123
+Chinchvad	Maharashtra	C	F	492
+Chinchvad	Maharashtra	C	M	485
+Chirala	Andhra Pradesh	A	F	173
+Chirala	Andhra Pradesh	A	M	150
+Chirala	Andhra Pradesh	B	F	109
+Chirala	Andhra Pradesh	B	M	90
+Chirala	Andhra Pradesh	C	F	42
+Chirala	Andhra Pradesh	C	M	50
+Chittaurgarh	Rajasthan	A	F	107
+Chittaurgarh	Rajasthan	A	M	99
+Chittaurgarh	Rajasthan	B	F	82
+Chittaurgarh	Rajasthan	B	M	83
+Chittaurgarh	Rajasthan	C	F	33
+Chittaurgarh	Rajasthan	C	M	31
+Chittoor	Andhra Pradesh	A	F	127
+Chittoor	Andhra Pradesh	A	M	161
+Chittoor	Andhra Pradesh	B	F	106
+Chittoor	Andhra Pradesh	B	M	93
+Chittoor	Andhra Pradesh	C	F	40
+Chittoor	Andhra Pradesh	C	M	55
+Coimbatore	Tamil Nadu	A	F	826
+Coimbatore	Tamil Nadu	A	M	872
+Coimbatore	Tamil Nadu	B	F	634
+Coimbatore	Tamil Nadu	B	M	624
+Coimbatore	Tamil Nadu	C	F	279
+Coimbatore	Tamil Nadu	C	M	269
+Conjeeveram	Tamil Nadu	A	F	142
+Conjeeveram	Tamil Nadu	A	M	154
+Conjeeveram	Tamil Nadu	B	F	93
+Conjeeveram	Tamil Nadu	B	M	109
+Conjeeveram	Tamil Nadu	C	F	48
+Conjeeveram	Tamil Nadu	C	M	47
+Cuddalore	Tamil Nadu	A	F	154
+Cuddalore	Tamil Nadu	A	M	171
+Cuddalore	Tamil Nadu	B	F	102
+Cuddalore	Tamil Nadu	B	M	95
+Cuddalore	Tamil Nadu	C	F	49
+Cuddalore	Tamil Nadu	C	M	42
+Cuddapah	Andhra Pradesh	A	F	311
+Cuddapah	Andhra Pradesh	A	M	333
+Cuddapah	Andhra Pradesh	B	F	213
+Cuddapah	Andhra Pradesh	B	M	202
+Cuddapah	Andhra Pradesh	C	F	84
+Cuddapah	Andhra Pradesh	C	M	102
+Curchorem	Goa	A	F	15
+Curchorem	Goa	A	M	22
+Curchorem	Goa	B	F	14
+Curchorem	Goa	B	M	22
+Curchorem	Goa	C	F	7
+Curchorem	Goa	C	M	5
+Cuttack	Odisha	A	F	555
+Cuttack	Odisha	A	M	520
+Cuttack	Odisha	B	F	391
+Cuttack	Odisha	B	M	362
+Cuttack	Odisha	C	F	189
+Cuttack	Odisha	C	M	172
+Dam Dam	West Bengal	A	F	111
+Dam Dam	West Bengal	A	M	127
+Dam Dam	West Bengal	B	F	78
+Dam Dam	West Bengal	B	M	79
+Dam Dam	West Bengal	C	F	32
+Dam Dam	West Bengal	C	M	32
+Daman	Gujarat	A	F	42
+Daman	Gujarat	A	M	34
+Daman	Gujarat	B	F	34
+Daman	Gujarat	B	M	31
+Daman	Gujarat	C	F	14
+Daman	Gujarat	C	M	9
+Darjeeling	West Bengal	A	F	106
+Darjeeling	West Bengal	A	M	107
+Darjeeling	West Bengal	B	F	64
+Darjeeling	West Bengal	B	M	74
+Darjeeling	West Bengal	C	F	25
+Darjeeling	West Bengal	C	M	23
+Davangere	Karnataka	A	F	469
+Davangere	Karnataka	A	M	478
+Davangere	Karnataka	B	F	303
+Davangere	Karnataka	B	M	314
+Davangere	Karnataka	C	F	149
+Davangere	Karnataka	C	M	156
+Dehra Dun	Uttarakhand	A	F	517
+Dehra Dun	Uttarakhand	A	M	516
+Dehra Dun	Uttarakhand	B	F	344
+Dehra Dun	Uttarakhand	B	M	364
+Dehra Dun	Uttarakhand	C	F	137
+Dehra Dun	Uttarakhand	C	M	152
+Delhi	Delhi	A	F	27446
+Delhi	Delhi	A	M	27483
+Delhi	Delhi	B	F	18740
+Delhi	Delhi	B	M	18766
+Delhi	Delhi	C	F	8446
+Delhi	Delhi	C	M	8179
+Deo	Bihar	A	F	146
+Deo	Bihar	A	M	166
+Deo	Bihar	B	F	85
+Deo	Bihar	B	M	108
+Deo	Bihar	C	F	39
+Deo	Bihar	C	M	53
+Devarkonda	Telangana	A	F	23
+Devarkonda	Telangana	A	M	30
+Devarkonda	Telangana	B	F	14
+Devarkonda	Telangana	B	M	16
+Devarkonda	Telangana	C	F	9
+Devarkonda	Telangana	C	M	4
+Dhanbad	Jharkhand	A	F	1142
+Dhanbad	Jharkhand	A	M	1124
+Dhanbad	Jharkhand	B	F	834
+Dhanbad	Jharkhand	B	M	799
+Dhanbad	Jharkhand	C	F	389
+Dhanbad	Jharkhand	C	M	322
+Dharmavaram	Andhra Pradesh	A	F	115
+Dharmavaram	Andhra Pradesh	A	M	105
+Dharmavaram	Andhra Pradesh	B	F	79
+Dharmavaram	Andhra Pradesh	B	M	55
+Dharmavaram	Andhra Pradesh	C	F	33
+Dharmavaram	Andhra Pradesh	C	M	18
+Dholka	Gujarat	A	F	42
+Dholka	Gujarat	A	M	57
+Dholka	Gujarat	B	F	38
+Dholka	Gujarat	B	M	36
+Dholka	Gujarat	C	F	20
+Dholka	Gujarat	C	M	20
+Dhulia	Maharashtra	A	F	479
+Dhulia	Maharashtra	A	M	466
+Dhulia	Maharashtra	B	F	292
+Dhulia	Maharashtra	B	M	303
+Dhulia	Maharashtra	C	F	133
+Dhulia	Maharashtra	C	M	140
+Dibrugarh	Assam	A	F	140
+Dibrugarh	Assam	A	M	134
+Dibrugarh	Assam	B	F	88
+Dibrugarh	Assam	B	M	110
+Dibrugarh	Assam	C	F	39
+Dibrugarh	Assam	C	M	54
+Dindigul	Tamil Nadu	A	F	184
+Dindigul	Tamil Nadu	A	M	205
+Dindigul	Tamil Nadu	B	F	132
+Dindigul	Tamil Nadu	B	M	132
+Dindigul	Tamil Nadu	C	F	59
+Dindigul	Tamil Nadu	C	M	54
+Dispur	Assam	A	F	861
+Dispur	Assam	A	M	851
+Dispur	Assam	B	F	619
+Dispur	Assam	B	M	631
+Dispur	Assam	C	F	263
+Dispur	Assam	C	M	247
+Diu	Daman and Diu	A	F	22
+Diu	Daman and Diu	A	M	21
+Diu	Daman and Diu	B	F	18
+Diu	Daman and Diu	B	M	19
+Diu	Daman and Diu	C	F	3
+Diu	Daman and Diu	C	M	8
+Drug	Chhattisgarh	A	F	242
+Drug	Chhattisgarh	A	M	225
+Drug	Chhattisgarh	B	F	165
+Drug	Chhattisgarh	B	M	151
+Drug	Chhattisgarh	C	F	68
+Drug	Chhattisgarh	C	M	74
+Durgapur	West Bengal	A	F	534
+Durgapur	West Bengal	A	M	531
+Durgapur	West Bengal	B	F	382
+Durgapur	West Bengal	B	M	389
+Durgapur	West Bengal	C	F	170
+Durgapur	West Bengal	C	M	174
+Dwarka	Gujarat	A	F	38
+Dwarka	Gujarat	A	M	46
+Dwarka	Gujarat	B	F	17
+Dwarka	Gujarat	B	M	23
+Dwarka	Gujarat	C	F	11
+Dwarka	Gujarat	C	M	8
+Ellore	Andhra Pradesh	A	F	196
+Ellore	Andhra Pradesh	A	M	193
+Ellore	Andhra Pradesh	B	F	132
+Ellore	Andhra Pradesh	B	M	127
+Ellore	Andhra Pradesh	C	F	57
+Ellore	Andhra Pradesh	C	M	62
+Emmiganur	Andhra Pradesh	A	F	99
+Emmiganur	Andhra Pradesh	A	M	77
+Emmiganur	Andhra Pradesh	B	F	62
+Emmiganur	Andhra Pradesh	B	M	58
+Emmiganur	Andhra Pradesh	C	F	30
+Emmiganur	Andhra Pradesh	C	M	27
+Erode	Tamil Nadu	A	F	150
+Erode	Tamil Nadu	A	M	158
+Erode	Tamil Nadu	B	F	100
+Erode	Tamil Nadu	B	M	104
+Erode	Tamil Nadu	C	F	36
+Erode	Tamil Nadu	C	M	45
+Etawah	Uttar Pradesh	A	F	241
+Etawah	Uttar Pradesh	A	M	239
+Etawah	Uttar Pradesh	B	F	179
+Etawah	Uttar Pradesh	B	M	176
+Etawah	Uttar Pradesh	C	F	74
+Etawah	Uttar Pradesh	C	M	70
+Faridabad	Haryana	A	F	1269
+Faridabad	Haryana	A	M	1269
+Faridabad	Haryana	B	F	934
+Faridabad	Haryana	B	M	849
+Faridabad	Haryana	C	F	388
+Faridabad	Haryana	C	M	367
+Fatehpur	Uttar Pradesh	A	F	144
+Fatehpur	Uttar Pradesh	A	M	187
+Fatehpur	Uttar Pradesh	B	F	109
+Fatehpur	Uttar Pradesh	B	M	105
+Fatehpur	Uttar Pradesh	C	F	49
+Fatehpur	Uttar Pradesh	C	M	55
+Fatehpur Sikri	Uttar Pradesh	A	F	20
+Fatehpur Sikri	Uttar Pradesh	A	M	40
+Fatehpur Sikri	Uttar Pradesh	B	F	26
+Fatehpur Sikri	Uttar Pradesh	B	M	19
+Fatehpur Sikri	Uttar Pradesh	C	F	15
+Fatehpur Sikri	Uttar Pradesh	C	M	7
+Firozabad	Uttar Pradesh	A	F	293
+Firozabad	Uttar Pradesh	A	M	298
+Firozabad	Uttar Pradesh	B	F	203
+Firozabad	Uttar Pradesh	B	M	204
+Firozabad	Uttar Pradesh	C	F	96
+Firozabad	Uttar Pradesh	C	M	91
+Fyzabad	Uttar Pradesh	A	F	146
+Fyzabad	Uttar Pradesh	A	M	158
+Fyzabad	Uttar Pradesh	B	F	90
+Fyzabad	Uttar Pradesh	B	M	89
+Fyzabad	Uttar Pradesh	C	F	28
+Fyzabad	Uttar Pradesh	C	M	33
+Gadwal	Telangana	A	F	59
+Gadwal	Telangana	A	M	54
+Gadwal	Telangana	B	F	37
+Gadwal	Telangana	B	M	33
+Gadwal	Telangana	C	F	26
+Gadwal	Telangana	C	M	19
+Gangtok	Sikkim	A	F	92
+Gangtok	Sikkim	A	M	92
+Gangtok	Sikkim	B	F	55
+Gangtok	Sikkim	B	M	59
+Gangtok	Sikkim	C	F	24
+Gangtok	Sikkim	C	M	30
+Gauripur	Assam	A	F	26
+Gauripur	Assam	A	M	29
+Gauripur	Assam	B	F	14
+Gauripur	Assam	B	M	16
+Gauripur	Assam	C	F	5
+Gauripur	Assam	C	M	4
+Gaya	Bihar	A	F	420
+Gaya	Bihar	A	M	475
+Gaya	Bihar	B	F	302
+Gaya	Bihar	B	M	309
+Gaya	Bihar	C	F	112
+Gaya	Bihar	C	M	148
+Ghandinagar	Gujarat	A	F	182
+Ghandinagar	Gujarat	A	M	183
+Ghandinagar	Gujarat	B	F	126
+Ghandinagar	Gujarat	B	M	123
+Ghandinagar	Gujarat	C	F	56
+Ghandinagar	Gujarat	C	M	55
+Ghaziabad	Uttar Pradesh	A	F	2092
+Ghaziabad	Uttar Pradesh	A	M	2211
+Ghaziabad	Uttar Pradesh	B	F	1486
+Ghaziabad	Uttar Pradesh	B	M	1534
+Ghaziabad	Uttar Pradesh	C	F	677
+Ghaziabad	Uttar Pradesh	C	M	647
+Giddalur	Andhra Pradesh	A	F	34
+Giddalur	Andhra Pradesh	A	M	24
+Giddalur	Andhra Pradesh	B	F	25
+Giddalur	Andhra Pradesh	B	M	30
+Giddalur	Andhra Pradesh	C	F	12
+Giddalur	Andhra Pradesh	C	M	16
+Godhra	Gujarat	A	F	149
+Godhra	Gujarat	A	M	152
+Godhra	Gujarat	B	F	75
+Godhra	Gujarat	B	M	107
+Godhra	Gujarat	C	F	44
+Godhra	Gujarat	C	M	43
+Gorakhpur	Uttar Pradesh	A	F	630
+Gorakhpur	Uttar Pradesh	A	M	602
+Gorakhpur	Uttar Pradesh	B	F	415
+Gorakhpur	Uttar Pradesh	B	M	430
+Gorakhpur	Uttar Pradesh	C	F	182
+Gorakhpur	Uttar Pradesh	C	M	199
+Gudivada	Andhra Pradesh	A	F	123
+Gudivada	Andhra Pradesh	A	M	76
+Gudivada	Andhra Pradesh	B	F	75
+Gudivada	Andhra Pradesh	B	M	72
+Gudivada	Andhra Pradesh	C	F	34
+Gudivada	Andhra Pradesh	C	M	25
+Gulbarga	Karnataka	A	F	384
+Gulbarga	Karnataka	A	M	481
+Gulbarga	Karnataka	B	F	288
+Gulbarga	Karnataka	B	M	285
+Gulbarga	Karnataka	C	F	138
+Gulbarga	Karnataka	C	M	127
+Guntakal	Andhra Pradesh	A	F	117
+Guntakal	Andhra Pradesh	A	M	117
+Guntakal	Andhra Pradesh	B	F	66
+Guntakal	Andhra Pradesh	B	M	87
+Guntakal	Andhra Pradesh	C	F	38
+Guntakal	Andhra Pradesh	C	M	29
+Guntur	Andhra Pradesh	A	F	576
+Guntur	Andhra Pradesh	A	M	582
+Guntur	Andhra Pradesh	B	F	427
+Guntur	Andhra Pradesh	B	M	388
+Guntur	Andhra Pradesh	C	F	186
+Guntur	Andhra Pradesh	C	M	160
+Gurgaon	Haryana	A	F	183
+Gurgaon	Haryana	A	M	163
+Gurgaon	Haryana	B	F	98
+Gurgaon	Haryana	B	M	101
+Gurgaon	Haryana	C	F	55
+Gurgaon	Haryana	C	M	54
+Guwahati	Assam	A	F	900
+Guwahati	Assam	A	M	859
+Guwahati	Assam	B	F	657
+Guwahati	Assam	B	M	607
+Guwahati	Assam	C	F	252
+Guwahati	Assam	C	M	281
+Gwalior	Madhya Pradesh	A	F	1001
+Gwalior	Madhya Pradesh	A	M	1010
+Gwalior	Madhya Pradesh	B	F	719
+Gwalior	Madhya Pradesh	B	M	657
+Gwalior	Madhya Pradesh	C	F	281
+Gwalior	Madhya Pradesh	C	M	300
+Habra	West Bengal	A	F	134
+Habra	West Bengal	A	M	145
+Habra	West Bengal	B	F	101
+Habra	West Bengal	B	M	104
+Habra	West Bengal	C	F	40
+Habra	West Bengal	C	M	43
+Haldia	West Bengal	A	F	178
+Haldia	West Bengal	A	M	181
+Haldia	West Bengal	B	F	137
+Haldia	West Bengal	B	M	121
+Haldia	West Bengal	C	F	72
+Haldia	West Bengal	C	M	63
+Halisahar	West Bengal	A	F	110
+Halisahar	West Bengal	A	M	96
+Halisahar	West Bengal	B	F	81
+Halisahar	West Bengal	B	M	83
+Halisahar	West Bengal	C	F	39
+Halisahar	West Bengal	C	M	36
+Handwara	Jammu and Kashmir	A	F	288
+Handwara	Jammu and Kashmir	A	M	236
+Handwara	Jammu and Kashmir	B	F	176
+Handwara	Jammu and Kashmir	B	M	167
+Handwara	Jammu and Kashmir	C	F	68
+Handwara	Jammu and Kashmir	C	M	82
+Haora	West Bengal	A	F	963
+Haora	West Bengal	A	M	1020
+Haora	West Bengal	B	F	677
+Haora	West Bengal	B	M	708
+Haora	West Bengal	C	F	299
+Haora	West Bengal	C	M	300
+Hapur	Uttar Pradesh	A	F	214
+Hapur	Uttar Pradesh	A	M	229
+Hapur	Uttar Pradesh	B	F	168
+Hapur	Uttar Pradesh	B	M	154
+Hapur	Uttar Pradesh	C	F	64
+Hapur	Uttar Pradesh	C	M	59
+Haripur	Punjab	A	F	157
+Haripur	Punjab	A	M	159
+Haripur	Punjab	B	F	106
+Haripur	Punjab	B	M	83
+Haripur	Punjab	C	F	44
+Haripur	Punjab	C	M	54
+Hassan	Karnataka	A	F	110
+Hassan	Karnataka	A	M	131
+Hassan	Karnataka	B	F	83
+Hassan	Karnataka	B	M	95
+Hassan	Karnataka	C	F	41
+Hassan	Karnataka	C	M	35
+Hathras	Uttar Pradesh	A	F	118
+Hathras	Uttar Pradesh	A	M	108
+Hathras	Uttar Pradesh	B	F	92
+Hathras	Uttar Pradesh	B	M	78
+Hathras	Uttar Pradesh	C	F	40
+Hathras	Uttar Pradesh	C	M	41
+Hindupur	Andhra Pradesh	A	F	137
+Hindupur	Andhra Pradesh	A	M	161
+Hindupur	Andhra Pradesh	B	F	102
+Hindupur	Andhra Pradesh	B	M	95
+Hindupur	Andhra Pradesh	C	F	42
+Hindupur	Andhra Pradesh	C	M	45
+Hisar	Haryana	A	F	280
+Hisar	Haryana	A	M	311
+Hisar	Haryana	B	F	183
+Hisar	Haryana	B	M	213
+Hisar	Haryana	C	F	84
+Hisar	Haryana	C	M	61
+Hospet	Karnataka	A	F	257
+Hospet	Karnataka	A	M	240
+Hospet	Karnataka	B	F	190
+Hospet	Karnataka	B	M	189
+Hospet	Karnataka	C	F	81
+Hospet	Karnataka	C	M	79
+Hubli	Karnataka	A	F	821
+Hubli	Karnataka	A	M	839
+Hubli	Karnataka	B	F	554
+Hubli	Karnataka	B	M	577
+Hubli	Karnataka	C	F	251
+Hubli	Karnataka	C	M	251
+Hugli	West Bengal	A	F	146
+Hugli	West Bengal	A	M	162
+Hugli	West Bengal	B	F	140
+Hugli	West Bengal	B	M	114
+Hugli	West Bengal	C	F	73
+Hugli	West Bengal	C	M	61
+Hyderabad	Telangana	A	F	8852
+Hyderabad	Telangana	A	M	9090
+Hyderabad	Telangana	B	F	6105
+Hyderabad	Telangana	B	M	6216
+Hyderabad	Telangana	C	F	2798
+Hyderabad	Telangana	C	M	2655
+Ichalkaranji	Maharashtra	A	F	263
+Ichalkaranji	Maharashtra	A	M	283
+Ichalkaranji	Maharashtra	B	F	183
+Ichalkaranji	Maharashtra	B	M	176
+Ichalkaranji	Maharashtra	C	F	89
+Ichalkaranji	Maharashtra	C	M	92
+Imphal	Manipur	A	F	247
+Imphal	Manipur	A	M	258
+Imphal	Manipur	B	F	198
+Imphal	Manipur	B	M	166
+Imphal	Manipur	C	F	88
+Imphal	Manipur	C	M	85
+Indore	Madhya Pradesh	A	F	2131
+Indore	Madhya Pradesh	A	M	2113
+Indore	Madhya Pradesh	B	F	1397
+Indore	Madhya Pradesh	B	M	1355
+Indore	Madhya Pradesh	C	F	632
+Indore	Madhya Pradesh	C	M	615
+Ingraj Bazar	West Bengal	A	F	194
+Ingraj Bazar	West Bengal	A	M	211
+Ingraj Bazar	West Bengal	B	F	127
+Ingraj Bazar	West Bengal	B	M	142
+Ingraj Bazar	West Bengal	C	F	61
+Ingraj Bazar	West Bengal	C	M	52
+Itanagar	Arunachal Pradesh	A	F	48
+Itanagar	Arunachal Pradesh	A	M	76
+Itanagar	Arunachal Pradesh	B	F	29
+Itanagar	Arunachal Pradesh	B	M	39
+Itanagar	Arunachal Pradesh	C	F	14
+Itanagar	Arunachal Pradesh	C	M	24
+Jabalpur	Madhya Pradesh	A	F	1154
+Jabalpur	Madhya Pradesh	A	M	1208
+Jabalpur	Madhya Pradesh	B	F	808
+Jabalpur	Madhya Pradesh	B	M	804
+Jabalpur	Madhya Pradesh	C	F	341
+Jabalpur	Madhya Pradesh	C	M	373
+Jaggayyapeta	Telangana	A	F	54
+Jaggayyapeta	Telangana	A	M	54
+Jaggayyapeta	Telangana	B	F	37
+Jaggayyapeta	Telangana	B	M	33
+Jaggayyapeta	Telangana	C	F	11
+Jaggayyapeta	Telangana	C	M	21
+Jagtial	Telangana	A	F	59
+Jagtial	Telangana	A	M	49
+Jagtial	Telangana	B	F	34
+Jagtial	Telangana	B	M	33
+Jagtial	Telangana	C	F	18
+Jagtial	Telangana	C	M	13
+Jaipur	Rajasthan	A	F	2882
+Jaipur	Rajasthan	A	M	2825
+Jaipur	Rajasthan	B	F	1961
+Jaipur	Rajasthan	B	M	1993
+Jaipur	Rajasthan	C	F	853
+Jaipur	Rajasthan	C	M	895
+Jaisalmer	Rajasthan	A	F	58
+Jaisalmer	Rajasthan	A	M	69
+Jaisalmer	Rajasthan	B	F	41
+Jaisalmer	Rajasthan	B	M	40
+Jaisalmer	Rajasthan	C	F	18
+Jaisalmer	Rajasthan	C	M	13
+Jalandhar	Punjab	A	F	808
+Jalandhar	Punjab	A	M	814
+Jalandhar	Punjab	B	F	565
+Jalandhar	Punjab	B	M	559
+Jalandhar	Punjab	C	F	251
+Jalandhar	Punjab	C	M	226
+Jalgaon	Maharashtra	A	F	424
+Jalgaon	Maharashtra	A	M	452
+Jalgaon	Maharashtra	B	F	287
+Jalgaon	Maharashtra	B	M	272
+Jalgaon	Maharashtra	C	F	122
+Jalgaon	Maharashtra	C	M	120
+Jalor	Rajasthan	A	F	54
+Jalor	Rajasthan	A	M	50
+Jalor	Rajasthan	B	F	30
+Jalor	Rajasthan	B	M	34
+Jalor	Rajasthan	C	F	13
+Jalor	Rajasthan	C	M	20
+Jalpaiguri	West Bengal	A	F	81
+Jalpaiguri	West Bengal	A	M	103
+Jalpaiguri	West Bengal	B	F	64
+Jalpaiguri	West Bengal	B	M	57
+Jalpaiguri	West Bengal	C	F	34
+Jalpaiguri	West Bengal	C	M	48
+Jammalamadugu	Andhra Pradesh	A	F	43
+Jammalamadugu	Andhra Pradesh	A	M	31
+Jammalamadugu	Andhra Pradesh	B	F	35
+Jammalamadugu	Andhra Pradesh	B	M	23
+Jammalamadugu	Andhra Pradesh	C	F	14
+Jammalamadugu	Andhra Pradesh	C	M	16
+Jammu	Jammu and Kashmir	A	F	463
+Jammu	Jammu and Kashmir	A	M	512
+Jammu	Jammu and Kashmir	B	F	325
+Jammu	Jammu and Kashmir	B	M	289
+Jammu	Jammu and Kashmir	C	F	166
+Jammu	Jammu and Kashmir	C	M	138
+Jamnagar	Gujarat	A	F	477
+Jamnagar	Gujarat	A	M	440
+Jamnagar	Gujarat	B	F	307
+Jamnagar	Gujarat	B	M	310
+Jamnagar	Gujarat	C	F	127
+Jamnagar	Gujarat	C	M	132
+Jamshedpur	Jharkhand	A	F	1423
+Jamshedpur	Jharkhand	A	M	1467
+Jamshedpur	Jharkhand	B	F	963
+Jamshedpur	Jharkhand	B	M	946
+Jamshedpur	Jharkhand	C	F	444
+Jamshedpur	Jharkhand	C	M	449
+Jamuria	West Bengal	A	F	143
+Jamuria	West Bengal	A	M	138
+Jamuria	West Bengal	B	F	107
+Jamuria	West Bengal	B	M	77
+Jamuria	West Bengal	C	F	35
+Jamuria	West Bengal	C	M	47
+Jangaon	Telangana	A	F	46
+Jangaon	Telangana	A	M	42
+Jangaon	Telangana	B	F	26
+Jangaon	Telangana	B	M	28
+Jangaon	Telangana	C	F	14
+Jangaon	Telangana	C	M	12
+Jasdan	Gujarat	A	F	42
+Jasdan	Gujarat	A	M	44
+Jasdan	Gujarat	B	F	37
+Jasdan	Gujarat	B	M	27
+Jasdan	Gujarat	C	F	12
+Jasdan	Gujarat	C	M	16
+Jatani	Odisha	A	F	52
+Jatani	Odisha	A	M	60
+Jatani	Odisha	B	F	36
+Jatani	Odisha	B	M	34
+Jatani	Odisha	C	F	14
+Jatani	Odisha	C	M	16
+Jaunpur	Uttar Pradesh	A	F	185
+Jaunpur	Uttar Pradesh	A	M	179
+Jaunpur	Uttar Pradesh	B	F	100
+Jaunpur	Uttar Pradesh	B	M	105
+Jaunpur	Uttar Pradesh	C	F	57
+Jaunpur	Uttar Pradesh	C	M	57
+Jaynagar-Majilpur	West Bengal	A	F	18
+Jaynagar-Majilpur	West Bengal	A	M	34
+Jaynagar-Majilpur	West Bengal	B	F	16
+Jaynagar-Majilpur	West Bengal	B	M	15
+Jaynagar-Majilpur	West Bengal	C	F	7
+Jaynagar-Majilpur	West Bengal	C	M	9
+Jhansi	Uttar Pradesh	A	F	468
+Jhansi	Uttar Pradesh	A	M	441
+Jhansi	Uttar Pradesh	B	F	304
+Jhansi	Uttar Pradesh	B	M	293
+Jhansi	Uttar Pradesh	C	F	156
+Jhansi	Uttar Pradesh	C	M	142
+Jodhpur	Rajasthan	A	F	943
+Jodhpur	Rajasthan	A	M	863
+Jodhpur	Rajasthan	B	F	618
+Jodhpur	Rajasthan	B	M	598
+Jodhpur	Rajasthan	C	F	282
+Jodhpur	Rajasthan	C	M	264
+Jorhat	Assam	A	F	64
+Jorhat	Assam	A	M	58
+Jorhat	Assam	B	F	43
+Jorhat	Assam	B	M	43
+Jorhat	Assam	C	F	11
+Jorhat	Assam	C	M	17
+Junnar	Maharashtra	A	F	37
+Junnar	Maharashtra	A	M	32
+Junnar	Maharashtra	B	F	35
+Junnar	Maharashtra	B	M	30
+Junnar	Maharashtra	C	F	7
+Junnar	Maharashtra	C	M	13
+Kadiri	Andhra Pradesh	A	F	85
+Kadiri	Andhra Pradesh	A	M	79
+Kadiri	Andhra Pradesh	B	F	45
+Kadiri	Andhra Pradesh	B	M	59
+Kadiri	Andhra Pradesh	C	F	20
+Kadiri	Andhra Pradesh	C	M	30
+Kairana	Uttar Pradesh	A	F	80
+Kairana	Uttar Pradesh	A	M	77
+Kairana	Uttar Pradesh	B	F	43
+Kairana	Uttar Pradesh	B	M	42
+Kairana	Uttar Pradesh	C	F	17
+Kairana	Uttar Pradesh	C	M	24
+Kakinada	Andhra Pradesh	A	F	370
+Kakinada	Andhra Pradesh	A	M	367
+Kakinada	Andhra Pradesh	B	F	227
+Kakinada	Andhra Pradesh	B	M	250
+Kakinada	Andhra Pradesh	C	F	103
+Kakinada	Andhra Pradesh	C	M	113
+Kalyan	Maharashtra	A	F	1484
+Kalyan	Maharashtra	A	M	1473
+Kalyan	Maharashtra	B	F	971
+Kalyan	Maharashtra	B	M	982
+Kalyan	Maharashtra	C	F	445
+Kalyan	Maharashtra	C	M	421
+Kalyani	West Bengal	A	F	98
+Kalyani	West Bengal	A	M	87
+Kalyani	West Bengal	B	F	58
+Kalyani	West Bengal	B	M	60
+Kalyani	West Bengal	C	F	28
+Kalyani	West Bengal	C	M	33
+Kamareddipet	Telangana	A	F	74
+Kamareddipet	Telangana	A	M	70
+Kamareddipet	Telangana	B	F	56
+Kamareddipet	Telangana	B	M	56
+Kamareddipet	Telangana	C	F	19
+Kamareddipet	Telangana	C	M	24
+Kamarhati	West Bengal	A	F	336
+Kamarhati	West Bengal	A	M	326
+Kamarhati	West Bengal	B	F	204
+Kamarhati	West Bengal	B	M	199
+Kamarhati	West Bengal	C	F	93
+Kamarhati	West Bengal	C	M	83
+Kanchrapara	West Bengal	A	F	115
+Kanchrapara	West Bengal	A	M	103
+Kanchrapara	West Bengal	B	F	98
+Kanchrapara	West Bengal	B	M	77
+Kanchrapara	West Bengal	C	F	36
+Kanchrapara	West Bengal	C	M	32
+Kandukur	Andhra Pradesh	A	F	64
+Kandukur	Andhra Pradesh	A	M	51
+Kandukur	Andhra Pradesh	B	F	30
+Kandukur	Andhra Pradesh	B	M	42
+Kandukur	Andhra Pradesh	C	F	24
+Kandukur	Andhra Pradesh	C	M	13
+Karimnagar	Telangana	A	F	266
+Karimnagar	Telangana	A	M	246
+Karimnagar	Telangana	B	F	182
+Karimnagar	Telangana	B	M	194
+Karimnagar	Telangana	C	F	69
+Karimnagar	Telangana	C	M	74
+Karnal	Haryana	A	F	184
+Karnal	Haryana	A	M	220
+Karnal	Haryana	B	F	143
+Karnal	Haryana	B	M	164
+Karnal	Haryana	C	F	53
+Karnal	Haryana	C	M	65
+Karur	Tamil Nadu	A	F	71
+Karur	Tamil Nadu	A	M	56
+Karur	Tamil Nadu	B	F	47
+Karur	Tamil Nadu	B	M	46
+Karur	Tamil Nadu	C	F	22
+Karur	Tamil Nadu	C	M	16
+Kavali	Andhra Pradesh	A	F	83
+Kavali	Andhra Pradesh	A	M	70
+Kavali	Andhra Pradesh	B	F	52
+Kavali	Andhra Pradesh	B	M	77
+Kavali	Andhra Pradesh	C	F	31
+Kavali	Andhra Pradesh	C	M	30
+Kavaratti	Lakshadweep	A	F	7
+Kavaratti	Lakshadweep	A	M	6
+Kavaratti	Lakshadweep	B	F	6
+Kavaratti	Lakshadweep	B	M	9
+Kavaratti	Lakshadweep	C	F	1
+Kavaratti	Lakshadweep	C	M	2
+Khajuraho	Madhya Pradesh	A	F	16
+Khajuraho	Madhya Pradesh	A	M	23
+Khajuraho	Madhya Pradesh	B	F	17
+Khajuraho	Madhya Pradesh	B	M	16
+Khajuraho	Madhya Pradesh	C	F	9
+Khajuraho	Madhya Pradesh	C	M	6
+Khambhat	Gujarat	A	F	98
+Khambhat	Gujarat	A	M	97
+Khambhat	Gujarat	B	F	66
+Khambhat	Gujarat	B	M	58
+Khambhat	Gujarat	C	F	22
+Khambhat	Gujarat	C	M	25
+Khammam	Telangana	A	F	193
+Khammam	Telangana	A	M	208
+Khammam	Telangana	B	F	113
+Khammam	Telangana	B	M	117
+Khammam	Telangana	C	F	49
+Khammam	Telangana	C	M	54
+Kharagpur	West Bengal	A	F	195
+Kharagpur	West Bengal	A	M	179
+Kharagpur	West Bengal	B	F	133
+Kharagpur	West Bengal	B	M	135
+Kharagpur	West Bengal	C	F	65
+Kharagpur	West Bengal	C	M	53
+Khardah	West Bengal	A	F	105
+Khardah	West Bengal	A	M	73
+Khardah	West Bengal	B	F	62
+Khardah	West Bengal	B	M	69
+Khardah	West Bengal	C	F	34
+Khardah	West Bengal	C	M	36
+Khed Brahma	Gujarat	A	F	25
+Khed Brahma	Gujarat	A	M	36
+Khed Brahma	Gujarat	B	F	19
+Khed Brahma	Gujarat	B	M	14
+Khed Brahma	Gujarat	C	F	1
+Khed Brahma	Gujarat	C	M	8
+Kochi	Kerala	A	F	596
+Kochi	Kerala	A	M	645
+Kochi	Kerala	B	F	440
+Kochi	Kerala	B	M	441
+Kochi	Kerala	C	F	200
+Kochi	Kerala	C	M	175
+Kodaikanal	Tamil Nadu	A	F	38
+Kodaikanal	Tamil Nadu	A	M	40
+Kodaikanal	Tamil Nadu	B	F	33
+Kodaikanal	Tamil Nadu	B	M	21
+Kodaikanal	Tamil Nadu	C	F	8
+Kodaikanal	Tamil Nadu	C	M	10
+Kohima	Nagaland	A	F	84
+Kohima	Nagaland	A	M	93
+Kohima	Nagaland	B	F	53
+Kohima	Nagaland	B	M	60
+Kohima	Nagaland	C	F	32
+Kohima	Nagaland	C	M	25
+Koilkuntla	Andhra Pradesh	A	F	17
+Koilkuntla	Andhra Pradesh	A	M	21
+Koilkuntla	Andhra Pradesh	B	F	11
+Koilkuntla	Andhra Pradesh	B	M	21
+Koilkuntla	Andhra Pradesh	C	F	9
+Koilkuntla	Andhra Pradesh	C	M	5
+Kolar	Karnataka	A	F	129
+Kolar	Karnataka	A	M	131
+Kolar	Karnataka	B	F	96
+Kolar	Karnataka	B	M	81
+Kolar	Karnataka	C	F	45
+Kolar	Karnataka	C	M	33
+Kolhapur	Maharashtra	A	F	718
+Kolhapur	Maharashtra	A	M	685
+Kolhapur	Maharashtra	B	F	457
+Kolhapur	Maharashtra	B	M	470
+Kolhapur	Maharashtra	C	F	212
+Kolhapur	Maharashtra	C	M	209
+Kolkata	West Bengal	A	F	16220
+Kolkata	West Bengal	A	M	16186
+Kolkata	West Bengal	B	F	11164
+Kolkata	West Bengal	B	M	11098
+Kolkata	West Bengal	C	F	4876
+Kolkata	West Bengal	C	M	4770
+Koratla	Telangana	A	F	59
+Koratla	Telangana	A	M	63
+Koratla	Telangana	B	F	41
+Koratla	Telangana	B	M	37
+Koratla	Telangana	C	F	19
+Koratla	Telangana	C	M	19
+Kota	Rajasthan	A	F	898
+Kota	Rajasthan	A	M	918
+Kota	Rajasthan	B	F	618
+Kota	Rajasthan	B	M	625
+Kota	Rajasthan	C	F	289
+Kota	Rajasthan	C	M	275
+Kothapet	Telangana	A	F	52
+Kothapet	Telangana	A	M	55
+Kothapet	Telangana	B	F	26
+Kothapet	Telangana	B	M	35
+Kothapet	Telangana	C	F	16
+Kothapet	Telangana	C	M	16
+Kottagudem	Telangana	A	F	79
+Kottagudem	Telangana	A	M	72
+Kottagudem	Telangana	B	F	63
+Kottagudem	Telangana	B	M	46
+Kottagudem	Telangana	C	F	16
+Kottagudem	Telangana	C	M	20
+Kovvur	Andhra Pradesh	A	F	31
+Kovvur	Andhra Pradesh	A	M	42
+Kovvur	Andhra Pradesh	B	F	30
+Kovvur	Andhra Pradesh	B	M	27
+Kovvur	Andhra Pradesh	C	F	12
+Kovvur	Andhra Pradesh	C	M	9
+Krishnanagar	West Bengal	A	F	129
+Krishnanagar	West Bengal	A	M	116
+Krishnanagar	West Bengal	B	F	95
+Krishnanagar	West Bengal	B	M	90
+Krishnanagar	West Bengal	C	F	47
+Krishnanagar	West Bengal	C	M	44
+Kulgam	Jammu and Kashmir	A	F	19
+Kulgam	Jammu and Kashmir	A	M	15
+Kulgam	Jammu and Kashmir	B	F	18
+Kulgam	Jammu and Kashmir	B	M	13
+Kulgam	Jammu and Kashmir	C	F	12
+Kulgam	Jammu and Kashmir	C	M	4
+Kulti	West Bengal	A	F	265
+Kulti	West Bengal	A	M	289
+Kulti	West Bengal	B	F	228
+Kulti	West Bengal	B	M	196
+Kulti	West Bengal	C	F	93
+Kulti	West Bengal	C	M	70
+Kumbakonam	Tamil Nadu	A	F	141
+Kumbakonam	Tamil Nadu	A	M	141
+Kumbakonam	Tamil Nadu	B	F	84
+Kumbakonam	Tamil Nadu	B	M	94
+Kumbakonam	Tamil Nadu	C	F	40
+Kumbakonam	Tamil Nadu	C	M	43
+Kurnool	Andhra Pradesh	A	F	475
+Kurnool	Andhra Pradesh	A	M	427
+Kurnool	Andhra Pradesh	B	F	313
+Kurnool	Andhra Pradesh	B	M	302
+Kurnool	Andhra Pradesh	C	F	131
+Kurnool	Andhra Pradesh	C	M	139
+Latur	Maharashtra	A	F	363
+Latur	Maharashtra	A	M	319
+Latur	Maharashtra	B	F	248
+Latur	Maharashtra	B	M	268
+Latur	Maharashtra	C	F	116
+Latur	Maharashtra	C	M	113
+Lucknow	Uttar Pradesh	A	F	3112
+Lucknow	Uttar Pradesh	A	M	3184
+Lucknow	Uttar Pradesh	B	F	2120
+Lucknow	Uttar Pradesh	B	M	2156
+Lucknow	Uttar Pradesh	C	F	963
+Lucknow	Uttar Pradesh	C	M	985
+Ludhiana	Punjab	A	F	1588
+Ludhiana	Punjab	A	M	1563
+Ludhiana	Punjab	B	F	978
+Ludhiana	Punjab	B	M	1028
+Ludhiana	Punjab	C	F	495
+Ludhiana	Punjab	C	M	482
+Macherla	Andhra Pradesh	A	F	58
+Macherla	Andhra Pradesh	A	M	41
+Macherla	Andhra Pradesh	B	F	43
+Macherla	Andhra Pradesh	B	M	31
+Macherla	Andhra Pradesh	C	F	17
+Macherla	Andhra Pradesh	C	M	18
+Machilipatnam	Andhra Pradesh	A	F	158
+Machilipatnam	Andhra Pradesh	A	M	153
+Machilipatnam	Andhra Pradesh	B	F	96
+Machilipatnam	Andhra Pradesh	B	M	117
+Machilipatnam	Andhra Pradesh	C	F	46
+Machilipatnam	Andhra Pradesh	C	M	48
+Madanapalle	Andhra Pradesh	A	F	175
+Madanapalle	Andhra Pradesh	A	M	146
+Madanapalle	Andhra Pradesh	B	F	131
+Madanapalle	Andhra Pradesh	B	M	125
+Madanapalle	Andhra Pradesh	C	F	53
+Madanapalle	Andhra Pradesh	C	M	56
+Madhyamgram	West Bengal	A	F	187
+Madhyamgram	West Bengal	A	M	186
+Madhyamgram	West Bengal	B	F	136
+Madhyamgram	West Bengal	B	M	122
+Madhyamgram	West Bengal	C	F	67
+Madhyamgram	West Bengal	C	M	62
+Madurai	Tamil Nadu	A	F	1391
+Madurai	Tamil Nadu	A	M	1398
+Madurai	Tamil Nadu	B	F	1003
+Madurai	Tamil Nadu	B	M	1024
+Madurai	Tamil Nadu	C	F	456
+Madurai	Tamil Nadu	C	M	438
+Mahbubnagar	Telangana	A	F	205
+Mahbubnagar	Telangana	A	M	180
+Mahbubnagar	Telangana	B	F	122
+Mahbubnagar	Telangana	B	M	116
+Mahbubnagar	Telangana	C	F	51
+Mahbubnagar	Telangana	C	M	55
+Mahesana	Gujarat	A	F	179
+Mahesana	Gujarat	A	M	167
+Mahesana	Gujarat	B	F	108
+Mahesana	Gujarat	B	M	115
+Mahesana	Gujarat	C	F	45
+Mahesana	Gujarat	C	M	54
+Maihar	Madhya Pradesh	A	F	27
+Maihar	Madhya Pradesh	A	M	38
+Maihar	Madhya Pradesh	B	F	23
+Maihar	Madhya Pradesh	B	M	30
+Maihar	Madhya Pradesh	C	F	16
+Maihar	Madhya Pradesh	C	M	10
+Malaut	Punjab	A	F	65
+Malaut	Punjab	A	M	70
+Malaut	Punjab	B	F	37
+Malaut	Punjab	B	M	40
+Malaut	Punjab	C	F	17
+Malaut	Punjab	C	M	19
+Malegaon	Maharashtra	A	F	580
+Malegaon	Maharashtra	A	M	616
+Malegaon	Maharashtra	B	F	469
+Malegaon	Maharashtra	B	M	444
+Malegaon	Maharashtra	C	F	214
+Malegaon	Maharashtra	C	M	171
+Mancheral	Telangana	A	F	74
+Mancheral	Telangana	A	M	81
+Mancheral	Telangana	B	F	64
+Mancheral	Telangana	B	M	53
+Mancheral	Telangana	C	F	24
+Mancheral	Telangana	C	M	30
+Mandamari	Telangana	A	F	49
+Mandamari	Telangana	A	M	48
+Mandamari	Telangana	B	F	23
+Mandamari	Telangana	B	M	26
+Mandamari	Telangana	C	F	20
+Mandamari	Telangana	C	M	19
+Mandapeta	Andhra Pradesh	A	F	53
+Mandapeta	Andhra Pradesh	A	M	70
+Mandapeta	Andhra Pradesh	B	F	32
+Mandapeta	Andhra Pradesh	B	M	30
+Mandapeta	Andhra Pradesh	C	F	21
+Mandapeta	Andhra Pradesh	C	M	14
+Mandsaur	Madhya Pradesh	A	F	123
+Mandsaur	Madhya Pradesh	A	M	154
+Mandsaur	Madhya Pradesh	B	F	98
+Mandsaur	Madhya Pradesh	B	M	107
+Mandsaur	Madhya Pradesh	C	F	40
+Mandsaur	Madhya Pradesh	C	M	34
+Mandya	Karnataka	A	F	135
+Mandya	Karnataka	A	M	144
+Mandya	Karnataka	B	F	103
+Mandya	Karnataka	B	M	85
+Mandya	Karnataka	C	F	33
+Mandya	Karnataka	C	M	28
+Mangalagiri	Andhra Pradesh	A	F	72
+Mangalagiri	Andhra Pradesh	A	M	57
+Mangalagiri	Andhra Pradesh	B	F	51
+Mangalagiri	Andhra Pradesh	B	M	34
+Mangalagiri	Andhra Pradesh	C	F	20
+Mangalagiri	Andhra Pradesh	C	M	19
+Mangalore	Karnataka	A	F	574
+Mangalore	Karnataka	A	M	560
+Mangalore	Karnataka	B	F	412
+Mangalore	Karnataka	B	M	378
+Mangalore	Karnataka	C	F	154
+Mangalore	Karnataka	C	M	147
+Mangur	Telangana	A	F	35
+Mangur	Telangana	A	M	37
+Mangur	Telangana	B	F	24
+Mangur	Telangana	B	M	21
+Mangur	Telangana	C	F	12
+Mangur	Telangana	C	M	10
+Markapur	Andhra Pradesh	A	F	58
+Markapur	Andhra Pradesh	A	M	70
+Markapur	Andhra Pradesh	B	F	40
+Markapur	Andhra Pradesh	B	M	48
+Markapur	Andhra Pradesh	C	F	24
+Markapur	Andhra Pradesh	C	M	14
+Mathura	Uttar Pradesh	A	F	289
+Mathura	Uttar Pradesh	A	M	303
+Mathura	Uttar Pradesh	B	F	202
+Mathura	Uttar Pradesh	B	M	201
+Mathura	Uttar Pradesh	C	F	94
+Mathura	Uttar Pradesh	C	M	106
+Mauli	Punjab	A	F	127
+Mauli	Punjab	A	M	133
+Mauli	Punjab	B	F	90
+Mauli	Punjab	B	M	114
+Mauli	Punjab	C	F	40
+Mauli	Punjab	C	M	36
+Medinipur	West Bengal	A	F	166
+Medinipur	West Bengal	A	M	147
+Medinipur	West Bengal	B	F	105
+Medinipur	West Bengal	B	M	98
+Medinipur	West Bengal	C	F	60
+Medinipur	West Bengal	C	M	43
+Meerut	Uttar Pradesh	A	F	1209
+Meerut	Uttar Pradesh	A	M	1239
+Meerut	Uttar Pradesh	B	F	865
+Meerut	Uttar Pradesh	B	M	876
+Meerut	Uttar Pradesh	C	F	359
+Meerut	Uttar Pradesh	C	M	367
+Metpalli	Telangana	A	F	62
+Metpalli	Telangana	A	M	41
+Metpalli	Telangana	B	F	36
+Metpalli	Telangana	B	M	25
+Metpalli	Telangana	C	F	12
+Metpalli	Telangana	C	M	22
+Mirzapur	Uttar Pradesh	A	F	2325
+Mirzapur	Uttar Pradesh	A	M	2343
+Mirzapur	Uttar Pradesh	B	F	1588
+Mirzapur	Uttar Pradesh	B	M	1612
+Mirzapur	Uttar Pradesh	C	F	708
+Mirzapur	Uttar Pradesh	C	M	663
+Moradabad	Uttar Pradesh	A	F	762
+Moradabad	Uttar Pradesh	A	M	768
+Moradabad	Uttar Pradesh	B	F	512
+Moradabad	Uttar Pradesh	B	M	488
+Moradabad	Uttar Pradesh	C	F	234
+Moradabad	Uttar Pradesh	C	M	222
+Mumbai	Maharashtra	A	F	21595
+Mumbai	Maharashtra	A	M	21520
+Mumbai	Maharashtra	B	F	14999
+Mumbai	Maharashtra	B	M	14804
+Mumbai	Maharashtra	C	F	6662
+Mumbai	Maharashtra	C	M	6503
+Muzaffarnagar	Uttar Pradesh	A	F	388
+Muzaffarnagar	Uttar Pradesh	A	M	335
+Muzaffarnagar	Uttar Pradesh	B	F	234
+Muzaffarnagar	Uttar Pradesh	B	M	251
+Muzaffarnagar	Uttar Pradesh	C	F	114
+Muzaffarnagar	Uttar Pradesh	C	M	112
+Muzaffarpur	Bihar	A	F	293
+Muzaffarpur	Bihar	A	M	310
+Muzaffarpur	Bihar	B	F	230
+Muzaffarpur	Bihar	B	M	190
+Muzaffarpur	Bihar	C	F	96
+Muzaffarpur	Bihar	C	M	92
+Mysore	Karnataka	A	F	906
+Mysore	Karnataka	A	M	980
+Mysore	Karnataka	B	F	644
+Mysore	Karnataka	B	M	638
+Mysore	Karnataka	C	F	264
+Mysore	Karnataka	C	M	273
+Nagari	Andhra Pradesh	A	F	68
+Nagari	Andhra Pradesh	A	M	69
+Nagari	Andhra Pradesh	B	F	35
+Nagari	Andhra Pradesh	B	M	37
+Nagari	Andhra Pradesh	C	F	11
+Nagari	Andhra Pradesh	C	M	11
+Nagercoil	Tamil Nadu	A	F	213
+Nagercoil	Tamil Nadu	A	M	231
+Nagercoil	Tamil Nadu	B	F	138
+Nagercoil	Tamil Nadu	B	M	149
+Nagercoil	Tamil Nadu	C	F	70
+Nagercoil	Tamil Nadu	C	M	55
+Nagpur	Maharashtra	A	F	2284
+Nagpur	Maharashtra	A	M	2244
+Nagpur	Maharashtra	B	F	1541
+Nagpur	Maharashtra	B	M	1488
+Nagpur	Maharashtra	C	F	673
+Nagpur	Maharashtra	C	M	718
+Naihati	West Bengal	A	F	215
+Naihati	West Bengal	A	M	226
+Naihati	West Bengal	B	F	142
+Naihati	West Bengal	B	M	123
+Naihati	West Bengal	C	F	66
+Naihati	West Bengal	C	M	74
+Naini Tal	Uttarakhand	A	F	46
+Naini Tal	Uttarakhand	A	M	28
+Naini Tal	Uttarakhand	B	F	26
+Naini Tal	Uttarakhand	B	M	23
+Naini Tal	Uttarakhand	C	F	13
+Naini Tal	Uttarakhand	C	M	17
+Nalgonda	Telangana	A	F	145
+Nalgonda	Telangana	A	M	136
+Nalgonda	Telangana	B	F	107
+Nalgonda	Telangana	B	M	91
+Nalgonda	Telangana	C	F	60
+Nalgonda	Telangana	C	M	45
+Nanded	Maharashtra	A	F	581
+Nanded	Maharashtra	A	M	586
+Nanded	Maharashtra	B	F	407
+Nanded	Maharashtra	B	M	363
+Nanded	Maharashtra	C	F	163
+Nanded	Maharashtra	C	M	188
+Nandod	Gujarat	A	F	44
+Nandod	Gujarat	A	M	53
+Nandod	Gujarat	B	F	35
+Nandod	Gujarat	B	M	35
+Nandod	Gujarat	C	F	22
+Nandod	Gujarat	C	M	18
+Nandyal	Andhra Pradesh	A	F	201
+Nandyal	Andhra Pradesh	A	M	163
+Nandyal	Andhra Pradesh	B	F	124
+Nandyal	Andhra Pradesh	B	M	138
+Nandyal	Andhra Pradesh	C	F	67
+Nandyal	Andhra Pradesh	C	M	45
+Narasannapeta	Andhra Pradesh	A	F	23
+Narasannapeta	Andhra Pradesh	A	M	20
+Narasannapeta	Andhra Pradesh	B	F	18
+Narasannapeta	Andhra Pradesh	B	M	20
+Narasannapeta	Andhra Pradesh	C	F	7
+Narasannapeta	Andhra Pradesh	C	M	6
+Narasapur	Andhra Pradesh	A	F	54
+Narasapur	Andhra Pradesh	A	M	34
+Narasapur	Andhra Pradesh	B	F	36
+Narasapur	Andhra Pradesh	B	M	43
+Narasapur	Andhra Pradesh	C	F	16
+Narasapur	Andhra Pradesh	C	M	18
+Narasaraopet	Andhra Pradesh	A	F	118
+Narasaraopet	Andhra Pradesh	A	M	115
+Narasaraopet	Andhra Pradesh	B	F	66
+Narasaraopet	Andhra Pradesh	B	M	75
+Narasaraopet	Andhra Pradesh	C	F	28
+Narasaraopet	Andhra Pradesh	C	M	38
+Nasik	Maharashtra	A	F	1363
+Nasik	Maharashtra	A	M	1376
+Nasik	Maharashtra	B	F	977
+Nasik	Maharashtra	B	M	941
+Nasik	Maharashtra	C	F	469
+Nasik	Maharashtra	C	M	391
+Navadwip	West Bengal	A	F	123
+Navadwip	West Bengal	A	M	104
+Navadwip	West Bengal	B	F	70
+Navadwip	West Bengal	B	M	74
+Navadwip	West Bengal	C	F	38
+Navadwip	West Bengal	C	M	38
+Navsari	Gujarat	A	F	138
+Navsari	Gujarat	A	M	156
+Navsari	Gujarat	B	F	111
+Navsari	Gujarat	B	M	83
+Navsari	Gujarat	C	F	54
+Navsari	Gujarat	C	M	37
+Negapatam	Tamil Nadu	A	F	107
+Negapatam	Tamil Nadu	A	M	107
+Negapatam	Tamil Nadu	B	F	64
+Negapatam	Tamil Nadu	B	M	63
+Negapatam	Tamil Nadu	C	F	29
+Negapatam	Tamil Nadu	C	M	25
+Nellore	Andhra Pradesh	A	F	520
+Nellore	Andhra Pradesh	A	M	485
+Nellore	Andhra Pradesh	B	F	340
+Nellore	Andhra Pradesh	B	M	300
+Nellore	Andhra Pradesh	C	F	162
+Nellore	Andhra Pradesh	C	M	142
+New Delhi	Delhi	A	F	158
+New Delhi	Delhi	A	M	126
+New Delhi	Delhi	B	F	88
+New Delhi	Delhi	B	M	81
+New Delhi	Delhi	C	F	36
+New Delhi	Delhi	C	M	33
+Nidadavole	Andhra Pradesh	A	F	36
+Nidadavole	Andhra Pradesh	A	M	37
+Nidadavole	Andhra Pradesh	B	F	20
+Nidadavole	Andhra Pradesh	B	M	29
+Nidadavole	Andhra Pradesh	C	F	12
+Nidadavole	Andhra Pradesh	C	M	17
+Nizamabad	Telangana	A	F	383
+Nizamabad	Telangana	A	M	353
+Nizamabad	Telangana	B	F	249
+Nizamabad	Telangana	B	M	252
+Nizamabad	Telangana	C	F	116
+Nizamabad	Telangana	C	M	108
+Ongole	Andhra Pradesh	A	F	243
+Ongole	Andhra Pradesh	A	M	250
+Ongole	Andhra Pradesh	B	F	166
+Ongole	Andhra Pradesh	B	M	170
+Ongole	Andhra Pradesh	C	F	72
+Ongole	Andhra Pradesh	C	M	70
+Ootacamund	Tamil Nadu	A	F	70
+Ootacamund	Tamil Nadu	A	M	74
+Ootacamund	Tamil Nadu	B	F	50
+Ootacamund	Tamil Nadu	B	M	55
+Ootacamund	Tamil Nadu	C	F	25
+Ootacamund	Tamil Nadu	C	M	25
+Osmanabad	Maharashtra	A	F	109
+Osmanabad	Maharashtra	A	M	98
+Osmanabad	Maharashtra	B	F	67
+Osmanabad	Maharashtra	B	M	78
+Osmanabad	Maharashtra	C	F	28
+Osmanabad	Maharashtra	C	M	23
+Palakollu	Andhra Pradesh	A	F	125
+Palakollu	Andhra Pradesh	A	M	119
+Palakollu	Andhra Pradesh	B	F	65
+Palakollu	Andhra Pradesh	B	M	74
+Palakollu	Andhra Pradesh	C	F	42
+Palakollu	Andhra Pradesh	C	M	32
+Palghat	Kerala	A	F	122
+Palghat	Kerala	A	M	130
+Palghat	Kerala	B	F	88
+Palghat	Kerala	B	M	77
+Palghat	Kerala	C	F	24
+Palghat	Kerala	C	M	32
+Pali	Rajasthan	A	F	222
+Pali	Rajasthan	A	M	203
+Pali	Rajasthan	B	F	163
+Pali	Rajasthan	B	M	141
+Pali	Rajasthan	C	F	66
+Pali	Rajasthan	C	M	69
+Palmaner	Andhra Pradesh	A	F	47
+Palmaner	Andhra Pradesh	A	M	42
+Palmaner	Andhra Pradesh	B	F	34
+Palmaner	Andhra Pradesh	B	M	24
+Palmaner	Andhra Pradesh	C	F	10
+Palmaner	Andhra Pradesh	C	M	10
+Paloncha	Telangana	A	F	85
+Paloncha	Telangana	A	M	73
+Paloncha	Telangana	B	F	56
+Paloncha	Telangana	B	M	50
+Paloncha	Telangana	C	F	22
+Paloncha	Telangana	C	M	25
+Pamidi	Andhra Pradesh	A	F	19
+Pamidi	Andhra Pradesh	A	M	26
+Pamidi	Andhra Pradesh	B	F	19
+Pamidi	Andhra Pradesh	B	M	23
+Pamidi	Andhra Pradesh	C	F	9
+Pamidi	Andhra Pradesh	C	M	9
+Panaji	Goa	A	F	34
+Panaji	Goa	A	M	34
+Panaji	Goa	B	F	28
+Panaji	Goa	B	M	30
+Panaji	Goa	C	F	7
+Panaji	Goa	C	M	7
+Panihati	West Bengal	A	F	325
+Panihati	West Bengal	A	M	342
+Panihati	West Bengal	B	F	224
+Panihati	West Bengal	B	M	226
+Panihati	West Bengal	C	F	122
+Panihati	West Bengal	C	M	113
+Panipat	Haryana	A	F	282
+Panipat	Haryana	A	M	278
+Panipat	Haryana	B	F	206
+Panipat	Haryana	B	M	176
+Panipat	Haryana	C	F	86
+Panipat	Haryana	C	M	87
+Parbhani	Maharashtra	A	F	362
+Parbhani	Maharashtra	A	M	364
+Parbhani	Maharashtra	B	F	239
+Parbhani	Maharashtra	B	M	225
+Parbhani	Maharashtra	C	F	103
+Parbhani	Maharashtra	C	M	107
+Pathanamthitta	Kerala	A	F	35
+Pathanamthitta	Kerala	A	M	31
+Pathanamthitta	Kerala	B	F	19
+Pathanamthitta	Kerala	B	M	34
+Pathanamthitta	Kerala	C	F	9
+Pathanamthitta	Kerala	C	M	10
+Pathankot	Punjab	A	F	161
+Pathankot	Punjab	A	M	121
+Pathankot	Punjab	B	F	91
+Pathankot	Punjab	B	M	89
+Pathankot	Punjab	C	F	50
+Pathankot	Punjab	C	M	44
+Patiala	Punjab	A	F	300
+Patiala	Punjab	A	M	313
+Patiala	Punjab	B	F	233
+Patiala	Punjab	B	M	231
+Patiala	Punjab	C	F	74
+Patiala	Punjab	C	M	90
+Patna	Bihar	A	F	1507
+Patna	Bihar	A	M	1592
+Patna	Bihar	B	F	1061
+Patna	Bihar	B	M	1037
+Patna	Bihar	C	F	439
+Patna	Bihar	C	M	464
+Pedana	Andhra Pradesh	A	F	31
+Pedana	Andhra Pradesh	A	M	34
+Pedana	Andhra Pradesh	B	F	21
+Pedana	Andhra Pradesh	B	M	18
+Pedana	Andhra Pradesh	C	F	10
+Pedana	Andhra Pradesh	C	M	8
+Pilibhit	Uttar Pradesh	A	F	116
+Pilibhit	Uttar Pradesh	A	M	105
+Pilibhit	Uttar Pradesh	B	F	105
+Pilibhit	Uttar Pradesh	B	M	82
+Pilibhit	Uttar Pradesh	C	F	55
+Pilibhit	Uttar Pradesh	C	M	39
+Pithapuram	Andhra Pradesh	A	F	53
+Pithapuram	Andhra Pradesh	A	M	44
+Pithapuram	Andhra Pradesh	B	F	38
+Pithapuram	Andhra Pradesh	B	M	32
+Pithapuram	Andhra Pradesh	C	F	10
+Pithapuram	Andhra Pradesh	C	M	23
+Ponnuru	Andhra Pradesh	A	F	59
+Ponnuru	Andhra Pradesh	A	M	54
+Ponnuru	Andhra Pradesh	B	F	40
+Ponnuru	Andhra Pradesh	B	M	42
+Ponnuru	Andhra Pradesh	C	F	25
+Ponnuru	Andhra Pradesh	C	M	18
+Porbandar	Gujarat	A	F	229
+Porbandar	Gujarat	A	M	232
+Porbandar	Gujarat	B	F	150
+Porbandar	Gujarat	B	M	171
+Porbandar	Gujarat	C	F	70
+Porbandar	Gujarat	C	M	73
+Port Blair	Andaman and Nicobar Islands	A	F	118
+Port Blair	Andaman and Nicobar Islands	A	M	114
+Port Blair	Andaman and Nicobar Islands	B	F	71
+Port Blair	Andaman and Nicobar Islands	B	M	79
+Port Blair	Andaman and Nicobar Islands	C	F	37
+Port Blair	Andaman and Nicobar Islands	C	M	35
+Proddatur	Andhra Pradesh	A	F	140
+Proddatur	Andhra Pradesh	A	M	161
+Proddatur	Andhra Pradesh	B	F	108
+Proddatur	Andhra Pradesh	B	M	99
+Proddatur	Andhra Pradesh	C	F	54
+Proddatur	Andhra Pradesh	C	M	60
+Puducherry	Puducherry	A	F	215
+Puducherry	Puducherry	A	M	207
+Puducherry	Puducherry	B	F	148
+Puducherry	Puducherry	B	M	145
+Puducherry	Puducherry	C	F	57
+Puducherry	Puducherry	C	M	66
+Pulivendla	Andhra Pradesh	A	F	68
+Pulivendla	Andhra Pradesh	A	M	60
+Pulivendla	Andhra Pradesh	B	F	45
+Pulivendla	Andhra Pradesh	B	M	49
+Pulivendla	Andhra Pradesh	C	F	18
+Pulivendla	Andhra Pradesh	C	M	19
+Pune	Maharashtra	A	F	7294
+Pune	Maharashtra	A	M	7234
+Pune	Maharashtra	B	F	4890
+Pune	Maharashtra	B	M	4935
+Pune	Maharashtra	C	F	2144
+Pune	Maharashtra	C	M	2129
+Punganuru	Andhra Pradesh	A	F	46
+Punganuru	Andhra Pradesh	A	M	43
+Punganuru	Andhra Pradesh	B	F	22
+Punganuru	Andhra Pradesh	B	M	40
+Punganuru	Andhra Pradesh	C	F	13
+Punganuru	Andhra Pradesh	C	M	18
+Puri	Odisha	A	F	201
+Puri	Odisha	A	M	174
+Puri	Odisha	B	F	134
+Puri	Odisha	B	M	135
+Puri	Odisha	C	F	59
+Puri	Odisha	C	M	52
+Purnea	Bihar	A	F	298
+Purnea	Bihar	A	M	272
+Purnea	Bihar	B	F	197
+Purnea	Bihar	B	M	179
+Purnea	Bihar	C	F	76
+Purnea	Bihar	C	M	83
+Puttur	Andhra Pradesh	A	F	55
+Puttur	Andhra Pradesh	A	M	48
+Puttur	Andhra Pradesh	B	F	28
+Puttur	Andhra Pradesh	B	M	30
+Puttur	Andhra Pradesh	C	F	9
+Puttur	Andhra Pradesh	C	M	15
+Quilon	Kerala	A	F	384
+Quilon	Kerala	A	M	377
+Quilon	Kerala	B	F	256
+Quilon	Kerala	B	M	244
+Quilon	Kerala	C	F	122
+Quilon	Kerala	C	M	122
+Raichur	Karnataka	A	F	245
+Raichur	Karnataka	A	M	231
+Raichur	Karnataka	B	F	160
+Raichur	Karnataka	B	M	170
+Raichur	Karnataka	C	F	70
+Raichur	Karnataka	C	M	73
+Raiganj	West Bengal	A	F	168
+Raiganj	West Bengal	A	M	183
+Raiganj	West Bengal	B	F	124
+Raiganj	West Bengal	B	M	109
+Raiganj	West Bengal	C	F	43
+Raiganj	West Bengal	C	M	41
+Raipur	Chhattisgarh	A	F	984
+Raipur	Chhattisgarh	A	M	960
+Raipur	Chhattisgarh	B	F	679
+Raipur	Chhattisgarh	B	M	632
+Raipur	Chhattisgarh	C	F	272
+Raipur	Chhattisgarh	C	M	299
+Rajahmundry	Andhra Pradesh	A	F	315
+Rajahmundry	Andhra Pradesh	A	M	324
+Rajahmundry	Andhra Pradesh	B	F	206
+Rajahmundry	Andhra Pradesh	B	M	219
+Rajahmundry	Andhra Pradesh	C	F	87
+Rajahmundry	Andhra Pradesh	C	M	104
+Rajaori	Jammu and Kashmir	A	F	39
+Rajaori	Jammu and Kashmir	A	M	36
+Rajaori	Jammu and Kashmir	B	F	22
+Rajaori	Jammu and Kashmir	B	M	30
+Rajaori	Jammu and Kashmir	C	F	16
+Rajaori	Jammu and Kashmir	C	M	13
+Rajapalaiyam	Tamil Nadu	A	F	342
+Rajapalaiyam	Tamil Nadu	A	M	321
+Rajapalaiyam	Tamil Nadu	B	F	250
+Rajapalaiyam	Tamil Nadu	B	M	241
+Rajapalaiyam	Tamil Nadu	C	F	123
+Rajapalaiyam	Tamil Nadu	C	M	91
+Rajgir	Bihar	A	F	39
+Rajgir	Bihar	A	M	38
+Rajgir	Bihar	B	F	24
+Rajgir	Bihar	B	M	34
+Rajgir	Bihar	C	F	19
+Rajgir	Bihar	C	M	7
+Rajkot	Gujarat	A	F	1259
+Rajkot	Gujarat	A	M	1255
+Rajkot	Gujarat	B	F	832
+Rajkot	Gujarat	B	M	822
+Rajkot	Gujarat	C	F	390
+Rajkot	Gujarat	C	M	394
+Rameswaram	Tamil Nadu	A	F	41
+Rameswaram	Tamil Nadu	A	M	45
+Rameswaram	Tamil Nadu	B	F	24
+Rameswaram	Tamil Nadu	B	M	22
+Rameswaram	Tamil Nadu	C	F	15
+Rameswaram	Tamil Nadu	C	M	18
+Ramgundam	Telangana	A	F	227
+Ramgundam	Telangana	A	M	234
+Ramgundam	Telangana	B	F	168
+Ramgundam	Telangana	B	M	144
+Ramgundam	Telangana	C	F	58
+Ramgundam	Telangana	C	M	64
+Rampur	Uttar Pradesh	A	F	247
+Rampur	Uttar Pradesh	A	M	264
+Rampur	Uttar Pradesh	B	F	183
+Rampur	Uttar Pradesh	B	M	172
+Rampur	Uttar Pradesh	C	F	86
+Rampur	Uttar Pradesh	C	M	71
+Ranchi	Jharkhand	A	F	991
+Ranchi	Jharkhand	A	M	988
+Ranchi	Jharkhand	B	F	651
+Ranchi	Jharkhand	B	M	698
+Ranchi	Jharkhand	C	F	259
+Ranchi	Jharkhand	C	M	288
+Ratlam	Madhya Pradesh	A	F	258
+Ratlam	Madhya Pradesh	A	M	275
+Ratlam	Madhya Pradesh	B	F	173
+Ratlam	Madhya Pradesh	B	M	166
+Ratlam	Madhya Pradesh	C	F	77
+Ratlam	Madhya Pradesh	C	M	72
+Raurkela	Odisha	A	F	609
+Raurkela	Odisha	A	M	555
+Raurkela	Odisha	B	F	375
+Raurkela	Odisha	B	M	396
+Raurkela	Odisha	C	F	180
+Raurkela	Odisha	C	M	170
+Rayachoti	Andhra Pradesh	A	F	105
+Rayachoti	Andhra Pradesh	A	M	69
+Rayachoti	Andhra Pradesh	B	F	47
+Rayachoti	Andhra Pradesh	B	M	55
+Rayachoti	Andhra Pradesh	C	F	20
+Rayachoti	Andhra Pradesh	C	M	19
+Repalle	Andhra Pradesh	A	F	32
+Repalle	Andhra Pradesh	A	M	42
+Repalle	Andhra Pradesh	B	F	31
+Repalle	Andhra Pradesh	B	M	28
+Repalle	Andhra Pradesh	C	F	10
+Repalle	Andhra Pradesh	C	M	13
+Rishra	West Bengal	A	F	106
+Rishra	West Bengal	A	M	122
+Rishra	West Bengal	B	F	69
+Rishra	West Bengal	B	M	86
+Rishra	West Bengal	C	F	31
+Rishra	West Bengal	C	M	37
+Rohtak	Haryana	A	F	367
+Rohtak	Haryana	A	M	341
+Rohtak	Haryana	B	F	235
+Rohtak	Haryana	B	M	240
+Rohtak	Haryana	C	F	115
+Rohtak	Haryana	C	M	112
+Saharanpur	Uttar Pradesh	A	F	676
+Saharanpur	Uttar Pradesh	A	M	679
+Saharanpur	Uttar Pradesh	B	F	445
+Saharanpur	Uttar Pradesh	B	M	444
+Saharanpur	Uttar Pradesh	C	F	208
+Saharanpur	Uttar Pradesh	C	M	211
+Saharsa	Bihar	A	F	150
+Saharsa	Bihar	A	M	153
+Saharsa	Bihar	B	F	91
+Saharsa	Bihar	B	M	101
+Saharsa	Bihar	C	F	40
+Saharsa	Bihar	C	M	42
+Salem	Tamil Nadu	A	F	661
+Salem	Tamil Nadu	A	M	636
+Salem	Tamil Nadu	B	F	446
+Salem	Tamil Nadu	B	M	442
+Salem	Tamil Nadu	C	F	202
+Salem	Tamil Nadu	C	M	193
+Samalkot	Andhra Pradesh	A	F	45
+Samalkot	Andhra Pradesh	A	M	48
+Samalkot	Andhra Pradesh	B	F	37
+Samalkot	Andhra Pradesh	B	M	43
+Samalkot	Andhra Pradesh	C	F	21
+Samalkot	Andhra Pradesh	C	M	17
+Sambalpur	Odisha	A	F	301
+Sambalpur	Odisha	A	M	316
+Sambalpur	Odisha	B	F	219
+Sambalpur	Odisha	B	M	210
+Sambalpur	Odisha	C	F	104
+Sambalpur	Odisha	C	M	92
+Sambhal	Uttar Pradesh	A	F	188
+Sambhal	Uttar Pradesh	A	M	219
+Sambhal	Uttar Pradesh	B	F	129
+Sambhal	Uttar Pradesh	B	M	136
+Sambhal	Uttar Pradesh	C	F	58
+Sambhal	Uttar Pradesh	C	M	52
+Sangli	Maharashtra	A	F	410
+Sangli	Maharashtra	A	M	456
+Sangli	Maharashtra	B	F	277
+Sangli	Maharashtra	B	M	270
+Sangli	Maharashtra	C	F	114
+Sangli	Maharashtra	C	M	130
+Sannai	Madhya Pradesh	A	F	259
+Sannai	Madhya Pradesh	A	M	270
+Sannai	Madhya Pradesh	B	F	156
+Sannai	Madhya Pradesh	B	M	191
+Sannai	Madhya Pradesh	C	F	77
+Sannai	Madhya Pradesh	C	M	80
+Sattenapalle	Andhra Pradesh	A	F	56
+Sattenapalle	Andhra Pradesh	A	M	60
+Sattenapalle	Andhra Pradesh	B	F	34
+Sattenapalle	Andhra Pradesh	B	M	43
+Sattenapalle	Andhra Pradesh	C	F	20
+Sattenapalle	Andhra Pradesh	C	M	12
+Saugor	Madhya Pradesh	A	F	307
+Saugor	Madhya Pradesh	A	M	299
+Saugor	Madhya Pradesh	B	F	213
+Saugor	Madhya Pradesh	B	M	202
+Saugor	Madhya Pradesh	C	F	97
+Saugor	Madhya Pradesh	C	M	97
+Secunderabad	Telangana	A	F	175
+Secunderabad	Telangana	A	M	192
+Secunderabad	Telangana	B	F	149
+Secunderabad	Telangana	B	M	133
+Secunderabad	Telangana	C	F	59
+Secunderabad	Telangana	C	M	66
+Shahjanpur	Uttar Pradesh	A	F	300
+Shahjanpur	Uttar Pradesh	A	M	256
+Shahjanpur	Uttar Pradesh	B	F	194
+Shahjanpur	Uttar Pradesh	B	M	218
+Shahjanpur	Uttar Pradesh	C	F	106
+Shahjanpur	Uttar Pradesh	C	M	89
+Shantipur	West Bengal	A	F	133
+Shantipur	West Bengal	A	M	157
+Shantipur	West Bengal	B	F	87
+Shantipur	West Bengal	B	M	97
+Shantipur	West Bengal	C	F	40
+Shantipur	West Bengal	C	M	54
+Shiliguri	West Bengal	A	F	273
+Shiliguri	West Bengal	A	M	273
+Shiliguri	West Bengal	B	F	191
+Shiliguri	West Bengal	B	M	204
+Shiliguri	West Bengal	C	F	80
+Shiliguri	West Bengal	C	M	94
+Shillong	Meghalaya	A	F	150
+Shillong	Meghalaya	A	M	120
+Shillong	Meghalaya	B	F	90
+Shillong	Meghalaya	B	M	118
+Shillong	Meghalaya	C	F	45
+Shillong	Meghalaya	C	M	49
+Shimla	Himachal Pradesh	A	F	174
+Shimla	Himachal Pradesh	A	M	209
+Shimla	Himachal Pradesh	B	F	119
+Shimla	Himachal Pradesh	B	M	120
+Shimla	Himachal Pradesh	C	F	63
+Shimla	Himachal Pradesh	C	M	56
+Shimoga	Karnataka	A	F	586
+Shimoga	Karnataka	A	M	636
+Shimoga	Karnataka	B	F	433
+Shimoga	Karnataka	B	M	422
+Shimoga	Karnataka	C	F	175
+Shimoga	Karnataka	C	M	203
+Shrirampur	West Bengal	A	F	158
+Shrirampur	West Bengal	A	M	173
+Shrirampur	West Bengal	B	F	104
+Shrirampur	West Bengal	B	M	92
+Shrirampur	West Bengal	C	F	50
+Shrirampur	West Bengal	C	M	61
+Shrirangapattana	Karnataka	A	F	36
+Shrirangapattana	Karnataka	A	M	31
+Shrirangapattana	Karnataka	B	F	26
+Shrirangapattana	Karnataka	B	M	20
+Shrirangapattana	Karnataka	C	F	13
+Shrirangapattana	Karnataka	C	M	16
+Sihor	Gujarat	A	F	59
+Sihor	Gujarat	A	M	41
+Sihor	Gujarat	B	F	36
+Sihor	Gujarat	B	M	28
+Sihor	Gujarat	C	F	15
+Sihor	Gujarat	C	M	20
+Sikar	Rajasthan	A	F	397
+Sikar	Rajasthan	A	M	336
+Sikar	Rajasthan	B	F	250
+Sikar	Rajasthan	B	M	240
+Sikar	Rajasthan	C	F	108
+Sikar	Rajasthan	C	M	108
+Silchar	Assam	A	F	141
+Silchar	Assam	A	M	145
+Silchar	Assam	B	F	96
+Silchar	Assam	B	M	106
+Silchar	Assam	C	F	37
+Silchar	Assam	C	M	46
+Silvassa	Dadra and Nagar Haveli	A	F	25
+Silvassa	Dadra and Nagar Haveli	A	M	30
+Silvassa	Dadra and Nagar Haveli	B	F	15
+Silvassa	Dadra and Nagar Haveli	B	M	12
+Silvassa	Dadra and Nagar Haveli	C	F	10
+Silvassa	Dadra and Nagar Haveli	C	M	9
+Sirsa	Haryana	A	F	181
+Sirsa	Haryana	A	M	143
+Sirsa	Haryana	B	F	120
+Sirsa	Haryana	B	M	133
+Sirsa	Haryana	C	F	43
+Sirsa	Haryana	C	M	46
+Sirsilla	Telangana	A	F	64
+Sirsilla	Telangana	A	M	77
+Sirsilla	Telangana	B	F	61
+Sirsilla	Telangana	B	M	54
+Sirsilla	Telangana	C	F	30
+Sirsilla	Telangana	C	M	20
+Sitalpur	Uttar Pradesh	A	F	156
+Sitalpur	Uttar Pradesh	A	M	156
+Sitalpur	Uttar Pradesh	B	F	92
+Sitalpur	Uttar Pradesh	B	M	128
+Sitalpur	Uttar Pradesh	C	F	47
+Sitalpur	Uttar Pradesh	C	M	41
+Solan	Himachal Pradesh	A	F	38
+Solan	Himachal Pradesh	A	M	25
+Solan	Himachal Pradesh	B	F	17
+Solan	Himachal Pradesh	B	M	33
+Solan	Himachal Pradesh	C	F	11
+Solan	Himachal Pradesh	C	M	12
+Solapur	Maharashtra	A	F	900
+Solapur	Maharashtra	A	M	847
+Solapur	Maharashtra	B	F	619
+Solapur	Maharashtra	B	M	583
+Solapur	Maharashtra	C	F	238
+Solapur	Maharashtra	C	M	240
+Sonipat	Haryana	A	F	233
+Sonipat	Haryana	A	M	252
+Sonipat	Haryana	B	F	164
+Sonipat	Haryana	B	M	167
+Sonipat	Haryana	C	F	56
+Sonipat	Haryana	C	M	74
+Sopur	Jammu and Kashmir	A	F	107
+Sopur	Jammu and Kashmir	A	M	111
+Sopur	Jammu and Kashmir	B	F	72
+Sopur	Jammu and Kashmir	B	M	74
+Sopur	Jammu and Kashmir	C	F	25
+Sopur	Jammu and Kashmir	C	M	40
+Srinagar	Jammu and Kashmir	A	F	1139
+Srinagar	Jammu and Kashmir	A	M	1084
+Srinagar	Jammu and Kashmir	B	F	776
+Srinagar	Jammu and Kashmir	B	M	769
+Srinagar	Jammu and Kashmir	C	F	293
+Srinagar	Jammu and Kashmir	C	M	323
+Surat	Gujarat	A	F	5424
+Surat	Gujarat	A	M	5428
+Surat	Gujarat	B	F	3639
+Surat	Gujarat	B	M	3614
+Surat	Gujarat	C	F	1542
+Surat	Gujarat	C	M	1708
+Suriapet	Telangana	A	F	113
+Suriapet	Telangana	A	M	107
+Suriapet	Telangana	B	F	64
+Suriapet	Telangana	B	M	72
+Suriapet	Telangana	C	F	25
+Suriapet	Telangana	C	M	27
+Tadepalle	Andhra Pradesh	A	F	59
+Tadepalle	Andhra Pradesh	A	M	62
+Tadepalle	Andhra Pradesh	B	F	35
+Tadepalle	Andhra Pradesh	B	M	49
+Tadepalle	Andhra Pradesh	C	F	20
+Tadepalle	Andhra Pradesh	C	M	16
+Tadepallegudem	Andhra Pradesh	A	F	83
+Tadepallegudem	Andhra Pradesh	A	M	87
+Tadepallegudem	Andhra Pradesh	B	F	74
+Tadepallegudem	Andhra Pradesh	B	M	68
+Tadepallegudem	Andhra Pradesh	C	F	30
+Tadepallegudem	Andhra Pradesh	C	M	29
+Tadpatri	Andhra Pradesh	A	F	122
+Tadpatri	Andhra Pradesh	A	M	116
+Tadpatri	Andhra Pradesh	B	F	79
+Tadpatri	Andhra Pradesh	B	M	72
+Tadpatri	Andhra Pradesh	C	F	36
+Tadpatri	Andhra Pradesh	C	M	25
+Tanjore	Tamil Nadu	A	F	209
+Tanjore	Tamil Nadu	A	M	207
+Tanjore	Tamil Nadu	B	F	129
+Tanjore	Tamil Nadu	B	M	143
+Tanjore	Tamil Nadu	C	F	63
+Tanjore	Tamil Nadu	C	M	62
+Tanuku	Andhra Pradesh	A	F	90
+Tanuku	Andhra Pradesh	A	M	75
+Tanuku	Andhra Pradesh	B	F	50
+Tanuku	Andhra Pradesh	B	M	54
+Tanuku	Andhra Pradesh	C	F	20
+Tanuku	Andhra Pradesh	C	M	21
+Tenali	Andhra Pradesh	A	F	150
+Tenali	Andhra Pradesh	A	M	168
+Tenali	Andhra Pradesh	B	F	91
+Tenali	Andhra Pradesh	B	M	90
+Tenali	Andhra Pradesh	C	F	52
+Tenali	Andhra Pradesh	C	M	41
+Tezpur	Assam	A	F	50
+Tezpur	Assam	A	M	62
+Tezpur	Assam	B	F	28
+Tezpur	Assam	B	M	38
+Tezpur	Assam	C	F	21
+Tezpur	Assam	C	M	24
+Thane	Maharashtra	A	F	1142
+Thane	Maharashtra	A	M	1167
+Thane	Maharashtra	B	F	799
+Thane	Maharashtra	B	M	817
+Thane	Maharashtra	C	F	329
+Thane	Maharashtra	C	M	411
+Thiruvananthapuram	Kerala	A	F	700
+Thiruvananthapuram	Kerala	A	M	701
+Thiruvananthapuram	Kerala	B	F	441
+Thiruvananthapuram	Kerala	B	M	474
+Thiruvananthapuram	Kerala	C	F	168
+Thiruvananthapuram	Kerala	C	M	226
+Tinnevelly	Tamil Nadu	A	F	481
+Tinnevelly	Tamil Nadu	A	M	498
+Tinnevelly	Tamil Nadu	B	F	346
+Tinnevelly	Tamil Nadu	B	M	358
+Tinnevelly	Tamil Nadu	C	F	136
+Tinnevelly	Tamil Nadu	C	M	149
+Tirupati	Andhra Pradesh	A	F	304
+Tirupati	Andhra Pradesh	A	M	265
+Tirupati	Andhra Pradesh	B	F	194
+Tirupati	Andhra Pradesh	B	M	178
+Tirupati	Andhra Pradesh	C	F	77
+Tirupati	Andhra Pradesh	C	M	84
+Tiruppur	Tamil Nadu	A	F	654
+Tiruppur	Tamil Nadu	A	M	573
+Tiruppur	Tamil Nadu	B	F	409
+Tiruppur	Tamil Nadu	B	M	408
+Tiruppur	Tamil Nadu	C	F	209
+Tiruppur	Tamil Nadu	C	M	166
+Tiruvannamalai	Tamil Nadu	A	F	123
+Tiruvannamalai	Tamil Nadu	A	M	131
+Tiruvannamalai	Tamil Nadu	B	F	100
+Tiruvannamalai	Tamil Nadu	B	M	83
+Tiruvannamalai	Tamil Nadu	C	F	43
+Tiruvannamalai	Tamil Nadu	C	M	32
+Titagarh	West Bengal	A	F	91
+Titagarh	West Bengal	A	M	106
+Titagarh	West Bengal	B	F	78
+Titagarh	West Bengal	B	M	58
+Titagarh	West Bengal	C	F	35
+Titagarh	West Bengal	C	M	29
+Tonk	Rajasthan	A	F	156
+Tonk	Rajasthan	A	M	186
+Tonk	Rajasthan	B	F	126
+Tonk	Rajasthan	B	M	124
+Tonk	Rajasthan	C	F	38
+Tonk	Rajasthan	C	M	51
+Trichinopoly	Tamil Nadu	A	F	894
+Trichinopoly	Tamil Nadu	A	M	833
+Trichinopoly	Tamil Nadu	B	F	591
+Trichinopoly	Tamil Nadu	B	M	586
+Trichinopoly	Tamil Nadu	C	F	234
+Trichinopoly	Tamil Nadu	C	M	257
+Trichur	Kerala	A	F	303
+Trichur	Kerala	A	M	287
+Trichur	Kerala	B	F	214
+Trichur	Kerala	B	M	173
+Trichur	Kerala	C	F	95
+Trichur	Kerala	C	M	74
+Tumkur	Karnataka	A	F	362
+Tumkur	Karnataka	A	M	397
+Tumkur	Karnataka	B	F	240
+Tumkur	Karnataka	B	M	268
+Tumkur	Karnataka	C	F	126
+Tumkur	Karnataka	C	M	135
+Tuni	Andhra Pradesh	A	F	56
+Tuni	Andhra Pradesh	A	M	64
+Tuni	Andhra Pradesh	B	F	33
+Tuni	Andhra Pradesh	B	M	29
+Tuni	Andhra Pradesh	C	F	14
+Tuni	Andhra Pradesh	C	M	11
+Tuticorin	Tamil Nadu	A	F	428
+Tuticorin	Tamil Nadu	A	M	432
+Tuticorin	Tamil Nadu	B	F	293
+Tuticorin	Tamil Nadu	B	M	281
+Tuticorin	Tamil Nadu	C	F	108
+Tuticorin	Tamil Nadu	C	M	103
+Udaipur	Rajasthan	A	F	414
+Udaipur	Rajasthan	A	M	443
+Udaipur	Rajasthan	B	F	288
+Udaipur	Rajasthan	B	M	310
+Udaipur	Rajasthan	C	F	147
+Udaipur	Rajasthan	C	M	119
+Udhampur	Jammu and Kashmir	A	F	42
+Udhampur	Jammu and Kashmir	A	M	38
+Udhampur	Jammu and Kashmir	B	F	28
+Udhampur	Jammu and Kashmir	B	M	23
+Udhampur	Jammu and Kashmir	C	F	10
+Udhampur	Jammu and Kashmir	C	M	7
+Udipi	Karnataka	A	F	146
+Udipi	Karnataka	A	M	143
+Udipi	Karnataka	B	F	117
+Udipi	Karnataka	B	M	110
+Udipi	Karnataka	C	F	47
+Udipi	Karnataka	C	M	52
+Ujjain	Madhya Pradesh	A	F	494
+Ujjain	Madhya Pradesh	A	M	481
+Ujjain	Madhya Pradesh	B	F	353
+Ujjain	Madhya Pradesh	B	M	302
+Ujjain	Madhya Pradesh	C	F	165
+Ujjain	Madhya Pradesh	C	M	129
+Ulhasnagar	Maharashtra	A	F	480
+Ulhasnagar	Maharashtra	A	M	463
+Ulhasnagar	Maharashtra	B	F	327
+Ulhasnagar	Maharashtra	B	M	312
+Ulhasnagar	Maharashtra	C	F	139
+Ulhasnagar	Maharashtra	C	M	123
+Uluberiya	West Bengal	A	F	240
+Uluberiya	West Bengal	A	M	226
+Uluberiya	West Bengal	B	F	143
+Uluberiya	West Bengal	B	M	159
+Uluberiya	West Bengal	C	F	51
+Uluberiya	West Bengal	C	M	74
+Umaria	Madhya Pradesh	A	F	30
+Umaria	Madhya Pradesh	A	M	35
+Umaria	Madhya Pradesh	B	F	26
+Umaria	Madhya Pradesh	B	M	13
+Umaria	Madhya Pradesh	C	F	7
+Umaria	Madhya Pradesh	C	M	6
+Uran	Maharashtra	A	F	28
+Uran	Maharashtra	A	M	32
+Uran	Maharashtra	B	F	13
+Uran	Maharashtra	B	M	21
+Uran	Maharashtra	C	F	6
+Uran	Maharashtra	C	M	11
+Vadodara	Gujarat	A	F	1919
+Vadodara	Gujarat	A	M	1866
+Vadodara	Gujarat	B	F	1270
+Vadodara	Gujarat	B	M	1192
+Vadodara	Gujarat	C	F	621
+Vadodara	Gujarat	C	M	555
+Valparai	Tamil Nadu	A	F	105
+Valparai	Tamil Nadu	A	M	106
+Valparai	Tamil Nadu	B	F	88
+Valparai	Tamil Nadu	B	M	69
+Valparai	Tamil Nadu	C	F	29
+Valparai	Tamil Nadu	C	M	35
+Varanasi	Uttar Pradesh	A	F	1113
+Varanasi	Uttar Pradesh	A	M	1107
+Varanasi	Uttar Pradesh	B	F	788
+Varanasi	Uttar Pradesh	B	M	737
+Varanasi	Uttar Pradesh	C	F	350
+Varanasi	Uttar Pradesh	C	M	310
+Vellore	Tamil Nadu	A	F	167
+Vellore	Tamil Nadu	A	M	189
+Vellore	Tamil Nadu	B	F	107
+Vellore	Tamil Nadu	B	M	112
+Vellore	Tamil Nadu	C	F	51
+Vellore	Tamil Nadu	C	M	52
+Venkatagiri	Andhra Pradesh	A	F	47
+Venkatagiri	Andhra Pradesh	A	M	54
+Venkatagiri	Andhra Pradesh	B	F	41
+Venkatagiri	Andhra Pradesh	B	M	35
+Venkatagiri	Andhra Pradesh	C	F	10
+Venkatagiri	Andhra Pradesh	C	M	15
+Vidisha	Madhya Pradesh	A	F	157
+Vidisha	Madhya Pradesh	A	M	157
+Vidisha	Madhya Pradesh	B	F	114
+Vidisha	Madhya Pradesh	B	M	103
+Vidisha	Madhya Pradesh	C	F	38
+Vidisha	Madhya Pradesh	C	M	43
+Vikarabad	Telangana	A	F	50
+Vikarabad	Telangana	A	M	46
+Vikarabad	Telangana	B	F	36
+Vikarabad	Telangana	B	M	33
+Vikarabad	Telangana	C	F	17
+Vikarabad	Telangana	C	M	11
+Vinukonda	Andhra Pradesh	A	F	62
+Vinukonda	Andhra Pradesh	A	M	53
+Vinukonda	Andhra Pradesh	B	F	28
+Vinukonda	Andhra Pradesh	B	M	34
+Vinukonda	Andhra Pradesh	C	F	24
+Vinukonda	Andhra Pradesh	C	M	27
+Vishakhapatnam	Andhra Pradesh	A	F	1858
+Vishakhapatnam	Andhra Pradesh	A	M	1969
+Vishakhapatnam	Andhra Pradesh	B	F	1317
+Vishakhapatnam	Andhra Pradesh	B	M	1324
+Vishakhapatnam	Andhra Pradesh	C	F	573
+Vishakhapatnam	Andhra Pradesh	C	M	590
+Vizianagaram	Andhra Pradesh	A	F	209
+Vizianagaram	Andhra Pradesh	A	M	223
+Vizianagaram	Andhra Pradesh	B	F	124
+Vizianagaram	Andhra Pradesh	B	M	135
+Vizianagaram	Andhra Pradesh	C	F	60
+Vizianagaram	Andhra Pradesh	C	M	60
+Vrindavan	Uttar Pradesh	A	F	72
+Vrindavan	Uttar Pradesh	A	M	68
+Vrindavan	Uttar Pradesh	B	F	25
+Vrindavan	Uttar Pradesh	B	M	36
+Vrindavan	Uttar Pradesh	C	F	19
+Vrindavan	Uttar Pradesh	C	M	6
+Wanparti	Telangana	A	F	67
+Wanparti	Telangana	A	M	42
+Wanparti	Telangana	B	F	52
+Wanparti	Telangana	B	M	36
+Wanparti	Telangana	C	F	21
+Wanparti	Telangana	C	M	19
+Warangal	Telangana	A	F	692
+Warangal	Telangana	A	M	671
+Warangal	Telangana	B	F	451
+Warangal	Telangana	B	M	450
+Warangal	Telangana	C	F	196
+Warangal	Telangana	C	M	215
+Yavatmal	Maharashtra	A	F	138
+Yavatmal	Maharashtra	A	M	129
+Yavatmal	Maharashtra	B	F	89
+Yavatmal	Maharashtra	B	M	87
+Yavatmal	Maharashtra	C	F	36
+Yavatmal	Maharashtra	C	M	40
+Yellandu	Telangana	A	F	37
+Yellandu	Telangana	A	M	41
+Yellandu	Telangana	B	F	27
+Yellandu	Telangana	B	M	14
+Yellandu	Telangana	C	F	7
+Yellandu	Telangana	C	M	11
